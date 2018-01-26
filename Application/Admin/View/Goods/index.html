@@ -1,0 +1,45 @@
+<div class="contentBox"></div>
+<script>
+$(function(){
+    var list = '<volist name="goods" id="v">'+
+                    '<tr><td>'+
+                            '<input name="visitor[]" type="checkbox" value="" />'+
+                            '<span class="hiddenThing">{$v.id}</span>'+
+                        '</td>'+
+                        '<td class="thumbPhoto">'+
+                            '<empty name="v.thumb"><img src="__PUBLIC__/Common/img/none.png" width="30" />'+
+                                '<else />'+
+                                '<a href="__PUBLIC__/Uploads/big/{$v.thumb}" class="tooltipPhoto" title="{$v.name}"><img src="__PUBLIC__/Uploads/small/{$v.thumb}" width="30" /></a>'+
+                            '</empty>'+
+                        '</td>'+
+                        '<td>'+
+                            '<a href="'+"{:U('Home/Goods/productDetails',array('id'=>$v['id']))}"+'" target="_blank">{$v.name}</a>'+
+                            '<p class="opration"><a href="'+"{:U('Goods/edit',array('id'=>$v['id'],'cid'=>$v['category_id'],'p'=>$p))}"+'">编辑</a> / <a href="#" class="act-del" data-id="{$v.id}">删除</a></p>'+
+                        '</td>'+
+                        '<td></td>'+
+                        '<td><a href="#" class="act-onsale" data-id="{$v.id}" data-status="{$v.on_sale}"><eq name="v.on_sale" value="yes">已上架<else/>未上架</eq></a> / <a href="#" class="act-recommend" data-id="{$v.id}" data-status="{$v.recommend}"><eq name="v.recommend" value="yes">已热推<else/>不热推</eq></a></td>'+
+                        '<td>{$v.num}</td>'+
+                        '<td><empty name="v.file">无<else /><a href="__PUBLIC__/Uploads/files/{$v.file}" target="_blank">有</a></empty></td>'+
+                        '<td>{$v.sorts}</td>'+
+                    '</tr>'+
+                '</volist>';
+    var box = $('.contentBox');
+    var tableThArr = ['选择','缩略图','名称','产品编号','产品状态','排序','PDF文件','访问量'];        //表头
+    box.append(tableIndexHeader(tableThArr.length,'产品列表',"<?php echo $dataCount ?>",'<?php echo $pagelist ?>')).find("tr:first").after(list).after(tableList(tableThArr));
+    formQuick(2,box);                                     //追加快捷操作表单
+    //追加分类选择
+    selectedProduct(box,"{:U('Goods/add',array('cid'=>$cid))}",'添加产品');
+    var selected = '<volist name="classList" id="v"><option value="{$v.id}" <eq name="v.id" value="$cid">selected</eq>>{:str_repeat(\'— \',$v[\'level\'])}{$v.name}</option></volist>';
+    $('select option').after(selected);
+    
+    search('请输入名称关键词',$('.content_title'));                      //在页面中追加搜索框
+    lineHover();                                                        //鼠标移入显示操作按钮
+    deepenLine();                                                       //遍历数据修改后返回主页加深行背景
+    tooltipPhoto();                                                     //鼠标移入缩略图，显示大图
+    quickAction("{:U('Goods/change',array('cid'=>$cid,'p'=>$p))}",2);   //快捷操作
+    downList("{:U('Goods/index',array('cid'=>'_ID_'))}");               //下拉菜单跳转
+    delData("{:U('Goods/del',array('p'=>$p,'cid'=>$cid))}");            //数据删除
+    tableTrTdLeft($('.tableListWrap tr').length-1,2);                   //左对齐
+    selectTag(2,0);           //左侧导航  
+});
+</script>

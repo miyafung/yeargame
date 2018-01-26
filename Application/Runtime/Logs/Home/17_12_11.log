@@ -1,0 +1,65 @@
+[ 2017-12-11T09:02:30+08:00 ] ::1 /game/index.php/Home/Index/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024858s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 90 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0132s ]
+SQL: UPDATE `admin` SET `tab`='1',`id`='168' WHERE `id` = 168 [ RunTime:0.0519s ]
+
+[ 2017-12-11T09:02:31+08:00 ] ::1 /game/index.php/Home/Index/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 90 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0840s ]
+SQL: UPDATE `admin` SET `tab`='1',`id`='193' WHERE `id` = 193 [ RunTime:0.0572s ]
+
+[ 2017-12-11T09:02:33+08:00 ] ::1 /game/index.php/Home/Index/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001378s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 90 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0119s ]
+SQL: UPDATE `admin` SET `tab`='1',`id`='193' WHERE `id` = 193 [ RunTime:0.1132s ]
+ERR: 模板不存在:./Application/Home/View/Index/eidtThing.html
+
+[ 2017-12-11T09:02:35+08:00 ] ::1 /game/index.php/Home/Index/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001534s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 90 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0292s ]
+SQL: UPDATE `admin` SET `tab`='1',`id`='65' WHERE `id` = 65 [ RunTime:0.0578s ]
+
+[ 2017-12-11T09:02:37+08:00 ] ::1 /game/index.php/Home/Index/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001366s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 90 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0512s ]
+SQL: UPDATE `admin` SET `tab`='1',`id`='84' WHERE `id` = 84 [ RunTime:0.0455s ]
+
+[ 2017-12-11T09:05:28+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 90 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '张数令' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 张数令
+
+[ 2017-12-11T15:29:10+08:00 ] ::1 /game/index.php/index/css/cooper-shake.css
+ERR: 非法操作:css
+
+[ 2017-12-11T15:30:23+08:00 ] ::1 /game/index.php/index/css/cooper-shake.css
+ERR: 非法操作:css
+
+[ 2017-12-11T15:51:28+08:00 ] ::1 /game/index.php/index/css/cooper-shake.css
+ERR: 非法操作:css
+
+[ 2017-12-11T15:51:29+08:00 ] ::1 /game/index.php/index/css/cooper-shake.css
+ERR: 非法操作:css
+
+[ 2017-12-11T15:51:29+08:00 ] ::1 /game/index.php/index/css/cooper-shake.css
+ERR: 非法操作:css
+

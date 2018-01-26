@@ -1,0 +1,17 @@
+<div class="contentBox">
+    <p class="cardTitle">产品子类的编辑</p>
+    <form method="post" enctype="multipart/form-data"></form>
+</div>
+<script> 
+$(function(){
+    var listArr = [["大类：",'{$category.bigName}'],["小类：",'<input type="text" name="name" value="{$category.name}">'],];
+    var trLast = '<tr><td></td><td><input class="cardInfoBtn inputNone" type="submit" value="编辑" name="return"></td></tr>';
+    $('form').append(cardTable(listArr));
+    $('.cardInfo').append(trLast);
+    if('{$category.id}'<=10){
+        $('.cardInfo tr:eq(1)').find('td:first').text('大类');
+        $('.cardInfo tr:first').remove();
+    }
+    selectTag(2,1);           //左侧导航  
+});
+</script>

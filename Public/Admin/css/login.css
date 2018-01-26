@@ -1,0 +1,9 @@
+body{ background-color: #6f85e0; }
+.ecLogin { width: 380px; background-color: #fff; margin: 200px auto 0; padding: 30px; position: relative; }
+.ecLogoTitle { display: block; margin: 0 auto; width: 200px; }
+.ecLabel { position: absolute; top: 30px; right: 80px; width: 40px; height: 40px; line-height: 40px; text-align: center; background-color: #fa5f30; border-radius: 20px; color: #fff; }
+.ecLogin input { width: 367px; margin: 8px auto; display: block; height: 30px; line-height: 30px; padding-left: 8px; }
+.ecLogin input:nth-child(5) { width: 120px; display: inline-block; }
+#verify_img { float: right; }
+#btn { margin: 30px auto 20px; clear: both; border: none; background-color: #fa5f30; color: #fff; height: 40px; line-height: 40px; cursor: pointer; }
+#btn:hover { background-color: #ff3b00; }

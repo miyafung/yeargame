@@ -1,0 +1,24 @@
+<div class="contentBox">
+    <form method="post" enctype="multipart/form-data"></form>
+</div>       
+<script>
+$(function(){
+    var tip = ['1.多关键词要用英文逗号“,”隔开，例如“FC fiber pigtail, FC/UPC pigtail, FC fiber optical pigtail”','2.图片的上传尺寸：370*160（像素）'];       //注意事项
+    tableHeader('Banner编辑','编辑');              //添加头部
+    var $preview = "<?php echo $banner['thumb'] ?>";
+    var $photoPath = webUrl()+"/public/Uploads/banner/"+$preview;
+    tableTr(1).after($trTd(5));              //拼接表格框架
+    tableTr(3).append(input('标题*','text','name',"<?php echo $banner['name'] ?>")).append(input('链接','text','url',"<?php echo $banner['url'] ?>"));
+    tableTr(4).append(tableSelect('上架','on_sale',"<?php echo $banner['on_sale'] ?>")).append(input('排序*','text','sort',"<?php echo $banner['sort'] ?>"));
+    tableTr(5).append(existPhoto('已存在图片',$preview,"{:U('$banner/delPhoto',array('id'=>$id,'cid'=>$cid))}",$photoPath)).append(input('图片上传','file','thumb'));
+    tableTr(5).find('input').addClass('inputNone');             //给文件上传按钮添加样式
+    tableTr(6).append(notice(tip));                             //添加注意事项
+    
+    selectTag(3,1);           //左侧导航  
+});
+    
+</script>
+
+
+
+

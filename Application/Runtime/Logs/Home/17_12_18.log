@@ -1,0 +1,48 @@
+[ 2017-12-18T19:00:39+08:00 ] ::1 /game/index.php/Home/Index/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002135s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0049s ]
+SQL: UPDATE `admin` SET `state`='3',`number`='18774258010' WHERE `number` = '18774258010' [ RunTime:0.0707s ]
+
+[ 2017-12-18T19:00:41+08:00 ] ::1 /game/index.php/Home/Index/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001117s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0051s ]
+SQL: UPDATE `admin` SET `state`='3',`number`='15818321473' WHERE `number` = '15818321473' [ RunTime:0.0589s ]
+
+[ 2017-12-18T19:00:43+08:00 ] ::1 /game/index.php/Home/Index/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001771s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0042s ]
+SQL: UPDATE `admin` SET `state`='3',`number`='13424588930' WHERE `number` = '13424588930' [ RunTime:0.0584s ]
+
+[ 2017-12-18T19:00:45+08:00 ] ::1 /game/index.php/Home/Index/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001124s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.1029s ]
+SQL: UPDATE `admin` SET `state`='3',`number`='18719489337' WHERE `number` = '18719489337' [ RunTime:0.0813s ]
+
+[ 2017-12-18T19:00:47+08:00 ] ::1 /game/index.php/Home/Index/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001225s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0044s ]
+SQL: UPDATE `admin` SET `state`='3',`number`='18712267978' WHERE `number` = '18712267978' [ RunTime:0.0703s ]
+
+[ 2017-12-18T19:00:49+08:00 ] ::1 /game/index.php/Home/Index/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001778s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0047s ]
+SQL: UPDATE `admin` SET `state`='3',`number`='13652341576' WHERE `number` = '13652341576' [ RunTime:0.0501s ]
+

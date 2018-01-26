@@ -1,0 +1,1843 @@
+[ 2017-12-22T08:33:55+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0118s ]
+SQL: UPDATE `admin` SET `name`='黄丽娟',`state`='10',`spoil`='现金大奖' WHERE `name` = '黄丽娟' [ RunTime:0.1033s ]
+
+[ 2017-12-22T08:34:09+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0122s ]
+SQL: UPDATE `admin` SET `name`='朱顺驰',`state`='22',`spoil`='小米笔记本' WHERE `name` = '朱顺驰' [ RunTime:0.0606s ]
+
+[ 2017-12-22T08:34:09+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000790s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0102s ]
+SQL: UPDATE `admin` SET `name`='秦林娟',`state`='22',`spoil`='小米笔记本' WHERE `name` = '秦林娟' [ RunTime:0.0682s ]
+
+[ 2017-12-22T09:12:45+08:00 ] ::1 /game/index.php/Home/Prize/panpel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `admin` WHERE `state` = 0  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `admin` WHERE `state` > 0  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `admin` WHERE `tab` = 1  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `prize` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `prize`  [ RunTime:0.0002s ]
+SQL: UPDATE `admin` SET `state`='0',`spoil`=NULL WHERE `state` > 0 [ RunTime:0.0412s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030043s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030085s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.003823s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004226s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000752s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000793s ]
+
+[ 2017-12-22T09:12:46+08:00 ] ::1 /game/index.php/Home/Prize/panpel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `admin` WHERE `state` = 0  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `admin` WHERE `state` > 0  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `admin` WHERE `tab` = 1  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `prize` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `prize`  [ RunTime:0.0002s ]
+SQL: UPDATE `admin` SET `state`='0',`spoil`=NULL WHERE `state` > 0 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019519s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019558s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.003879s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000604s ]
+
+[ 2017-12-22T09:15:54+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0366s ]
+SQL: UPDATE `admin` SET `name`='杨蓉',`state`='10',`spoil`='现金大奖' WHERE `name` = '杨蓉' [ RunTime:0.1080s ]
+
+[ 2017-12-22T11:08:23+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000915s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0363s ]
+SQL: UPDATE `admin` SET `name`='古明许',`state`='22',`spoil`='小米笔记本' WHERE `name` = '古明许' [ RunTime:0.1179s ]
+
+[ 2017-12-22T11:08:23+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0070s ]
+SQL: UPDATE `admin` SET `name`='刘累累',`state`='22',`spoil`='小米笔记本' WHERE `name` = '刘累累' [ RunTime:0.0722s ]
+
+[ 2017-12-22T11:08:31+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000847s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.2376s ]
+SQL: UPDATE `admin` SET `name`='王花',`state`='31',`spoil`='小米电视55寸' WHERE `name` = '王花' [ RunTime:0.0874s ]
+
+[ 2017-12-22T11:08:31+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001214s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0072s ]
+SQL: UPDATE `admin` SET `name`='陈涛',`state`='31',`spoil`='小米电视55寸' WHERE `name` = '陈涛' [ RunTime:0.0528s ]
+
+[ 2017-12-22T11:08:41+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0351s ]
+SQL: UPDATE `admin` SET `name`='肖隆俊',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '肖隆俊' [ RunTime:0.0836s ]
+
+[ 2017-12-22T11:08:41+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0058s ]
+SQL: UPDATE `admin` SET `name`='全伟霞',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '全伟霞' [ RunTime:0.0489s ]
+
+[ 2017-12-22T11:08:41+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0061s ]
+SQL: UPDATE `admin` SET `name`='廖焕先',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '廖焕先' [ RunTime:0.0552s ]
+
+[ 2017-12-22T11:08:41+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001202s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0069s ]
+SQL: UPDATE `admin` SET `name`='吴楚琼',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '吴楚琼' [ RunTime:0.0662s ]
+
+[ 2017-12-22T11:09:42+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002486s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0134s ]
+SQL: UPDATE `admin` SET `name`='周春良',`state`='31',`spoil`='小米电视55寸' WHERE `name` = '周春良' [ RunTime:0.0602s ]
+
+[ 2017-12-22T11:09:42+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0077s ]
+SQL: UPDATE `admin` SET `name`='钟惠莲',`state`='31',`spoil`='小米电视55寸' WHERE `name` = '钟惠莲' [ RunTime:0.0454s ]
+
+[ 2017-12-22T11:09:48+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0144s ]
+SQL: UPDATE `admin` SET `name`='古金花',`state`='32',`spoil`='ipad Mini' WHERE `name` = '古金花' [ RunTime:0.0541s ]
+
+[ 2017-12-22T11:09:48+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0070s ]
+SQL: UPDATE `admin` SET `name`='刘志兰',`state`='32',`spoil`='ipad Mini' WHERE `name` = '刘志兰' [ RunTime:0.0614s ]
+
+[ 2017-12-22T11:09:52+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000794s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0213s ]
+SQL: UPDATE `admin` SET `name`='韩自红',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '韩自红' [ RunTime:0.0579s ]
+
+[ 2017-12-22T11:09:52+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0060s ]
+SQL: UPDATE `admin` SET `name`='晏祥情',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '晏祥情' [ RunTime:0.0462s ]
+
+[ 2017-12-22T11:09:52+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000835s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0061s ]
+SQL: UPDATE `admin` SET `name`='陈莉',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '陈莉' [ RunTime:0.0777s ]
+
+[ 2017-12-22T11:09:52+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0061s ]
+SQL: UPDATE `admin` SET `name`='张夏梅',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '张夏梅' [ RunTime:0.0391s ]
+
+[ 2017-12-22T11:10:02+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0170s ]
+SQL: UPDATE `admin` SET `name`='王健',`state`='52',`spoil`='电饭煲' WHERE `name` = '王健' [ RunTime:0.0521s ]
+
+[ 2017-12-22T11:10:02+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0065s ]
+SQL: UPDATE `admin` SET `name`='范路',`state`='52',`spoil`='电饭煲' WHERE `name` = '范路' [ RunTime:0.0569s ]
+
+[ 2017-12-22T11:10:02+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0062s ]
+SQL: UPDATE `admin` SET `name`='朱顺驰',`state`='52',`spoil`='电饭煲' WHERE `name` = '朱顺驰' [ RunTime:0.0442s ]
+
+[ 2017-12-22T11:10:02+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0063s ]
+SQL: UPDATE `admin` SET `name`='古丽平',`state`='52',`spoil`='电饭煲' WHERE `name` = '古丽平' [ RunTime:0.0420s ]
+
+[ 2017-12-22T11:10:02+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001002s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0073s ]
+SQL: UPDATE `admin` SET `name`='覃波',`state`='52',`spoil`='电饭煲' WHERE `name` = '覃波' [ RunTime:0.0618s ]
+
+[ 2017-12-22T11:10:07+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0254s ]
+SQL: UPDATE `admin` SET `name`='殷灯超',`state`='62',`spoil`='品牌背包' WHERE `name` = '殷灯超' [ RunTime:0.0489s ]
+
+[ 2017-12-22T11:10:07+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0059s ]
+SQL: UPDATE `admin` SET `name`='吴小梅',`state`='62',`spoil`='品牌背包' WHERE `name` = '吴小梅' [ RunTime:0.0412s ]
+
+[ 2017-12-22T11:10:07+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0057s ]
+SQL: UPDATE `admin` SET `name`='刘容',`state`='62',`spoil`='品牌背包' WHERE `name` = '刘容' [ RunTime:0.0462s ]
+
+[ 2017-12-22T11:10:08+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0058s ]
+SQL: UPDATE `admin` SET `name`='王娟',`state`='62',`spoil`='品牌背包' WHERE `name` = '王娟' [ RunTime:0.0503s ]
+
+[ 2017-12-22T11:10:08+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0136s ]
+SQL: UPDATE `admin` SET `name`='古丽丹',`state`='62',`spoil`='品牌背包' WHERE `name` = '古丽丹' [ RunTime:0.0453s ]
+
+[ 2017-12-22T11:10:08+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0061s ]
+SQL: UPDATE `admin` SET `name`='刘丽山',`state`='62',`spoil`='品牌背包' WHERE `name` = '刘丽山' [ RunTime:0.0538s ]
+
+[ 2017-12-22T11:10:08+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0056s ]
+SQL: UPDATE `admin` SET `name`='周芬',`state`='62',`spoil`='品牌背包' WHERE `name` = '周芬' [ RunTime:0.0500s ]
+
+[ 2017-12-22T11:10:08+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000772s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0064s ]
+SQL: UPDATE `admin` SET `name`='何金英',`state`='62',`spoil`='品牌背包' WHERE `name` = '何金英' [ RunTime:0.0342s ]
+
+[ 2017-12-22T11:10:08+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0067s ]
+SQL: UPDATE `admin` SET `name`='李园静',`state`='62',`spoil`='品牌背包' WHERE `name` = '李园静' [ RunTime:0.0971s ]
+
+[ 2017-12-22T11:10:08+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0269s ]
+SQL: UPDATE `admin` SET `name`='龚廷',`state`='62',`spoil`='品牌背包' WHERE `name` = '龚廷' [ RunTime:0.1093s ]
+
+[ 2017-12-22T11:10:12+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0118s ]
+SQL: UPDATE `admin` SET `name`='梁广智',`state`='10',`spoil`='现金大奖' WHERE `name` = '梁广智' [ RunTime:0.0588s ]
+
+[ 2017-12-22T11:17:06+08:00 ] ::1 /game/index.php/Home/Prize/panpel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0728s ]
+SQL: SELECT * FROM `admin` WHERE `state` = 0  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `admin` WHERE `state` > 0  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `admin` WHERE `tab` = 1  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `prize` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `prize`  [ RunTime:0.0003s ]
+SQL: UPDATE `admin` SET `state`='0',`spoil`=NULL WHERE `state` > 0 [ RunTime:0.0473s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024340s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024390s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.004082s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004560s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000721s ]
+
+[ 2017-12-22T11:17:22+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0124s ]
+SQL: UPDATE `admin` SET `name`='杨蓉',`state`='10',`spoil`='现金大奖' WHERE `name` = '杨蓉' [ RunTime:0.0596s ]
+
+[ 2017-12-22T11:18:15+08:00 ] ::1 /game/index.php/Home/Prize/panpel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0249s ]
+SQL: SELECT * FROM `admin` WHERE `state` = 0  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `admin` WHERE `state` > 0  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `admin` WHERE `tab` = 1  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `prize` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `prize`  [ RunTime:0.0004s ]
+SQL: UPDATE `admin` SET `state`='0',`spoil`=NULL WHERE `state` > 0 [ RunTime:0.1037s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008357s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008392s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.004071s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004378s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000580s ]
+
+[ 2017-12-22T11:18:16+08:00 ] ::1 /game/index.php/Home/Prize/panpel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0396s ]
+SQL: SELECT * FROM `admin` WHERE `state` = 0  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `admin` WHERE `state` > 0  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `admin` WHERE `tab` = 1  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `prize` [ RunTime:0.0290s ]
+SQL: SELECT * FROM `prize`  [ RunTime:0.0002s ]
+SQL: UPDATE `admin` SET `state`='0',`spoil`=NULL WHERE `state` > 0 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037764s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037802s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.004083s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2017-12-22T11:18:20+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0120s ]
+SQL: UPDATE `admin` SET `name`='朱金萍',`state`='10',`spoil`='现金大奖' WHERE `name` = '朱金萍' [ RunTime:0.0514s ]
+
+[ 2017-12-22T11:18:44+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0125s ]
+SQL: UPDATE `admin` SET `name`='薛景峰',`state`='11',`spoil`='苹果笔记本' WHERE `name` = '薛景峰' [ RunTime:0.0634s ]
+
+[ 2017-12-22T11:18:48+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0133s ]
+SQL: UPDATE `admin` SET `name`='赖燕文',`state`='21',`spoil`='iphone 8' WHERE `name` = '赖燕文' [ RunTime:0.0732s ]
+
+[ 2017-12-22T11:18:48+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001291s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0059s ]
+SQL: UPDATE `admin` SET `name`='张程',`state`='21',`spoil`='iphone 8' WHERE `name` = '张程' [ RunTime:0.0409s ]
+
+[ 2017-12-22T11:18:52+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0177s ]
+SQL: UPDATE `admin` SET `name`='晏祥情',`state`='22',`spoil`='小米笔记本' WHERE `name` = '晏祥情' [ RunTime:0.0953s ]
+
+[ 2017-12-22T11:18:52+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0083s ]
+SQL: UPDATE `admin` SET `name`='黄春青',`state`='22',`spoil`='小米笔记本' WHERE `name` = '黄春青' [ RunTime:0.0607s ]
+
+[ 2017-12-22T11:18:58+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0158s ]
+SQL: UPDATE `admin` SET `name`='罗位',`state`='21',`spoil`='iphone 8' WHERE `name` = '罗位' [ RunTime:0.0562s ]
+
+[ 2017-12-22T11:18:58+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0067s ]
+SQL: UPDATE `admin` SET `name`='尹勤',`state`='21',`spoil`='iphone 8' WHERE `name` = '尹勤' [ RunTime:0.0455s ]
+
+[ 2017-12-22T11:19:02+08:00 ] ::1 /game/index.php/Home/Prize/panpel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0128s ]
+SQL: SELECT * FROM `admin` WHERE `state` = 0  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `admin` WHERE `state` > 0  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `admin` WHERE `tab` = 1  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `prize` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `prize`  [ RunTime:0.0003s ]
+SQL: UPDATE `admin` SET `state`='0',`spoil`=NULL WHERE `state` > 0 [ RunTime:0.1021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024768s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024803s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.003964s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000681s ]
+
+[ 2017-12-22T11:24:58+08:00 ] ::1 /game/index.php/Home/Prize/panpel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `admin` WHERE `state` = 0  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `admin` WHERE `state` > 0  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `admin` WHERE `tab` = 1  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `prize` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `prize`  [ RunTime:0.0002s ]
+SQL: UPDATE `admin` SET `state`='0',`spoil`=NULL WHERE `state` > 0 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026572s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026624s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.004351s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004773s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000644s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000671s ]
+
+[ 2017-12-22T11:27:59+08:00 ] ::1 /game/index.php/Home/Prize/panpel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `admin` WHERE `state` = 0  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `admin` WHERE `state` > 0  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `admin` WHERE `tab` = 1  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `prize` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `prize`  [ RunTime:0.0002s ]
+SQL: UPDATE `admin` SET `state`='0',`spoil`=NULL WHERE `state` > 0 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036666s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.003851s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000627s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2017-12-22T11:28:00+08:00 ] ::1 /game/index.php/Home/Prize/panpel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `admin` WHERE `state` = 0  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `admin` WHERE `state` > 0  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `admin` WHERE `tab` = 1  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `prize` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `prize`  [ RunTime:0.0002s ]
+SQL: UPDATE `admin` SET `state`='0',`spoil`=NULL WHERE `state` > 0 [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035363s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035415s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.003844s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004258s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000538s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000564s ]
+
+[ 2017-12-22T11:28:04+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0144s ]
+SQL: UPDATE `admin` SET `name`='李云杰',`state`='10',`spoil`='现金大奖' WHERE `name` = '李云杰' [ RunTime:0.1694s ]
+
+[ 2017-12-22T11:29:44+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0124s ]
+SQL: UPDATE `admin` SET `name`='易广飞',`state`='11',`spoil`='苹果笔记本' WHERE `name` = '易广飞' [ RunTime:0.0722s ]
+
+[ 2017-12-22T11:29:51+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0180s ]
+SQL: UPDATE `admin` SET `name`='农画锋',`state`='21',`spoil`='iphone 8' WHERE `name` = '农画锋' [ RunTime:0.0534s ]
+
+[ 2017-12-22T11:29:51+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001374s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0072s ]
+SQL: UPDATE `admin` SET `name`='郭秀云',`state`='21',`spoil`='iphone 8' WHERE `name` = '郭秀云' [ RunTime:0.0474s ]
+
+[ 2017-12-22T11:30:01+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001400s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0373s ]
+SQL: UPDATE `admin` SET `name`='杨蓉',`state`='22',`spoil`='小米笔记本' WHERE `name` = '杨蓉' [ RunTime:0.0553s ]
+
+[ 2017-12-22T11:30:01+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0069s ]
+SQL: UPDATE `admin` SET `name`='祝瑶',`state`='22',`spoil`='小米笔记本' WHERE `name` = '祝瑶' [ RunTime:0.0349s ]
+
+[ 2017-12-22T11:30:05+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0141s ]
+SQL: UPDATE `admin` SET `name`='甘敏',`state`='31',`spoil`='小米电视55寸' WHERE `name` = '甘敏' [ RunTime:0.0443s ]
+
+[ 2017-12-22T11:30:05+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0062s ]
+SQL: UPDATE `admin` SET `name`='雷思祥',`state`='31',`spoil`='小米电视55寸' WHERE `name` = '雷思祥' [ RunTime:0.0482s ]
+
+[ 2017-12-22T11:30:10+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0240s ]
+SQL: UPDATE `admin` SET `name`='曹红梅',`state`='32',`spoil`='ipad Mini' WHERE `name` = '曹红梅' [ RunTime:0.0782s ]
+
+[ 2017-12-22T11:30:10+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0138s ]
+SQL: UPDATE `admin` SET `name`='杨雪松',`state`='32',`spoil`='ipad Mini' WHERE `name` = '杨雪松' [ RunTime:0.0475s ]
+
+[ 2017-12-22T11:30:18+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0159s ]
+SQL: UPDATE `admin` SET `name`='张燕萍',`state`='33',`spoil`='华为手机' WHERE `name` = '张燕萍' [ RunTime:0.0545s ]
+
+[ 2017-12-22T11:30:18+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0122s ]
+SQL: UPDATE `admin` SET `name`='覃江宏',`state`='33',`spoil`='华为手机' WHERE `name` = '覃江宏' [ RunTime:0.0597s ]
+
+[ 2017-12-22T11:30:24+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0828s ]
+SQL: UPDATE `admin` SET `name`='陈国源',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '陈国源' [ RunTime:0.0403s ]
+
+[ 2017-12-22T11:30:24+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0089s ]
+SQL: UPDATE `admin` SET `name`='马平平',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '马平平' [ RunTime:0.0471s ]
+
+[ 2017-12-22T11:30:24+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000861s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0075s ]
+SQL: UPDATE `admin` SET `name`='李少兰',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '李少兰' [ RunTime:0.0548s ]
+
+[ 2017-12-22T11:30:24+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001163s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0055s ]
+SQL: UPDATE `admin` SET `name`='范翠',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '范翠' [ RunTime:0.0424s ]
+
+[ 2017-12-22T11:30:27+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0146s ]
+SQL: UPDATE `admin` SET `name`='戴剑辉',`state`='42',`spoil`='海尔冰箱' WHERE `name` = '戴剑辉' [ RunTime:0.0669s ]
+
+[ 2017-12-22T11:30:27+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0062s ]
+SQL: UPDATE `admin` SET `name`='崔安康',`state`='42',`spoil`='海尔冰箱' WHERE `name` = '崔安康' [ RunTime:0.0492s ]
+
+[ 2017-12-22T11:30:27+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0062s ]
+SQL: UPDATE `admin` SET `name`='卢海燕',`state`='42',`spoil`='海尔冰箱' WHERE `name` = '卢海燕' [ RunTime:0.0569s ]
+
+[ 2017-12-22T11:30:31+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0136s ]
+SQL: UPDATE `admin` SET `name`='李园静',`state`='43',`spoil`='小天鹅洗衣机' WHERE `name` = '李园静' [ RunTime:0.0541s ]
+
+[ 2017-12-22T11:30:31+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0063s ]
+SQL: UPDATE `admin` SET `name`='赖燕文',`state`='43',`spoil`='小天鹅洗衣机' WHERE `name` = '赖燕文' [ RunTime:0.0490s ]
+
+[ 2017-12-22T11:30:31+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0064s ]
+SQL: UPDATE `admin` SET `name`='岳文超',`state`='43',`spoil`='小天鹅洗衣机' WHERE `name` = '岳文超' [ RunTime:0.0410s ]
+
+[ 2017-12-22T11:30:35+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0716s ]
+SQL: UPDATE `admin` SET `name`='张春光',`state`='51',`spoil`='行李箱' WHERE `name` = '张春光' [ RunTime:0.0439s ]
+
+[ 2017-12-22T11:30:35+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0065s ]
+SQL: UPDATE `admin` SET `name`='吴冠琴',`state`='51',`spoil`='行李箱' WHERE `name` = '吴冠琴' [ RunTime:0.0366s ]
+
+[ 2017-12-22T11:30:35+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0075s ]
+SQL: UPDATE `admin` SET `name`='陈亚亮',`state`='51',`spoil`='行李箱' WHERE `name` = '陈亚亮' [ RunTime:0.0674s ]
+
+[ 2017-12-22T11:30:35+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0056s ]
+SQL: UPDATE `admin` SET `name`='刘累累',`state`='51',`spoil`='行李箱' WHERE `name` = '刘累累' [ RunTime:0.0358s ]
+
+[ 2017-12-22T11:30:36+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000834s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0134s ]
+SQL: UPDATE `admin` SET `name`='陈莉',`state`='51',`spoil`='行李箱' WHERE `name` = '陈莉' [ RunTime:0.0300s ]
+
+[ 2017-12-22T11:30:39+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000847s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0255s ]
+SQL: UPDATE `admin` SET `name`='张菊',`state`='52',`spoil`='电饭煲' WHERE `name` = '张菊' [ RunTime:0.0500s ]
+
+[ 2017-12-22T11:30:39+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0057s ]
+SQL: UPDATE `admin` SET `name`='钟惠莲',`state`='52',`spoil`='电饭煲' WHERE `name` = '钟惠莲' [ RunTime:0.0401s ]
+
+[ 2017-12-22T11:30:40+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0065s ]
+SQL: UPDATE `admin` SET `name`='蒲俊霖',`state`='52',`spoil`='电饭煲' WHERE `name` = '蒲俊霖' [ RunTime:0.0618s ]
+
+[ 2017-12-22T11:30:40+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0122s ]
+SQL: UPDATE `admin` SET `name`='古丽丹',`state`='52',`spoil`='电饭煲' WHERE `name` = '古丽丹' [ RunTime:0.0640s ]
+
+[ 2017-12-22T11:30:40+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0059s ]
+SQL: UPDATE `admin` SET `name`='邓秋燕',`state`='52',`spoil`='电饭煲' WHERE `name` = '邓秋燕' [ RunTime:0.0421s ]
+
+[ 2017-12-22T11:30:43+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0230s ]
+SQL: UPDATE `admin` SET `name`='李明娟',`state`='53',`spoil`='床上用品四件套' WHERE `name` = '李明娟' [ RunTime:0.0464s ]
+
+[ 2017-12-22T11:30:43+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0057s ]
+SQL: UPDATE `admin` SET `name`='李泰能',`state`='53',`spoil`='床上用品四件套' WHERE `name` = '李泰能' [ RunTime:0.0427s ]
+
+[ 2017-12-22T11:30:43+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0057s ]
+SQL: UPDATE `admin` SET `name`='彭慧芳',`state`='53',`spoil`='床上用品四件套' WHERE `name` = '彭慧芳' [ RunTime:0.0537s ]
+
+[ 2017-12-22T11:30:43+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0057s ]
+SQL: UPDATE `admin` SET `name`='付兴红',`state`='53',`spoil`='床上用品四件套' WHERE `name` = '付兴红' [ RunTime:0.0456s ]
+
+[ 2017-12-22T11:30:43+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0057s ]
+SQL: UPDATE `admin` SET `name`='王翠',`state`='53',`spoil`='床上用品四件套' WHERE `name` = '王翠' [ RunTime:0.0673s ]
+
+[ 2017-12-22T11:30:48+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000660s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0207s ]
+SQL: UPDATE `admin` SET `name`='张程',`state`='61',`spoil`='九阳电炖锅' WHERE `name` = '张程' [ RunTime:0.0546s ]
+
+[ 2017-12-22T11:30:48+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0056s ]
+SQL: UPDATE `admin` SET `name`='彭雪春',`state`='61',`spoil`='九阳电炖锅' WHERE `name` = '彭雪春' [ RunTime:0.0770s ]
+
+[ 2017-12-22T11:30:48+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000806s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0064s ]
+SQL: UPDATE `admin` SET `name`='冯丽贞',`state`='61',`spoil`='九阳电炖锅' WHERE `name` = '冯丽贞' [ RunTime:0.0614s ]
+
+[ 2017-12-22T11:30:49+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0127s ]
+SQL: UPDATE `admin` SET `name`='周春良',`state`='61',`spoil`='九阳电炖锅' WHERE `name` = '周春良' [ RunTime:0.0467s ]
+
+[ 2017-12-22T11:30:49+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0510s ]
+SQL: UPDATE `admin` SET `name`='马风梅',`state`='61',`spoil`='九阳电炖锅' WHERE `name` = '马风梅' [ RunTime:0.0509s ]
+
+[ 2017-12-22T11:30:51+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0222s ]
+SQL: UPDATE `admin` SET `name`='马晴',`state`='62',`spoil`='品牌背包' WHERE `name` = '马晴' [ RunTime:0.0494s ]
+
+[ 2017-12-22T11:30:51+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0062s ]
+SQL: UPDATE `admin` SET `name`='覃波',`state`='62',`spoil`='品牌背包' WHERE `name` = '覃波' [ RunTime:0.0474s ]
+
+[ 2017-12-22T11:30:51+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0058s ]
+SQL: UPDATE `admin` SET `name`='古丽园',`state`='62',`spoil`='品牌背包' WHERE `name` = '古丽园' [ RunTime:0.0406s ]
+
+[ 2017-12-22T11:30:51+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0474s ]
+SQL: UPDATE `admin` SET `name`='杨惠玲',`state`='62',`spoil`='品牌背包' WHERE `name` = '杨惠玲' [ RunTime:0.0456s ]
+
+[ 2017-12-22T11:30:51+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000835s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0069s ]
+SQL: UPDATE `admin` SET `name`='龚廷',`state`='62',`spoil`='品牌背包' WHERE `name` = '龚廷' [ RunTime:0.0459s ]
+
+[ 2017-12-22T11:30:51+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0058s ]
+SQL: UPDATE `admin` SET `name`='陈姣',`state`='62',`spoil`='品牌背包' WHERE `name` = '陈姣' [ RunTime:0.0310s ]
+
+[ 2017-12-22T11:30:51+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0058s ]
+SQL: UPDATE `admin` SET `name`='黄丽娟',`state`='62',`spoil`='品牌背包' WHERE `name` = '黄丽娟' [ RunTime:0.0478s ]
+
+[ 2017-12-22T11:30:51+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0061s ]
+SQL: UPDATE `admin` SET `name`='段金贵',`state`='62',`spoil`='品牌背包' WHERE `name` = '段金贵' [ RunTime:0.0536s ]
+
+[ 2017-12-22T11:30:51+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0066s ]
+SQL: UPDATE `admin` SET `name`='阳科',`state`='62',`spoil`='品牌背包' WHERE `name` = '阳科' [ RunTime:0.0393s ]
+
+[ 2017-12-22T11:30:51+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0064s ]
+SQL: UPDATE `admin` SET `name`='周静',`state`='62',`spoil`='品牌背包' WHERE `name` = '周静' [ RunTime:0.0483s ]
+
+[ 2017-12-22T11:30:54+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0276s ]
+SQL: UPDATE `admin` SET `name`='罗位',`state`='63',`spoil`='艾美特电风扇' WHERE `name` = '罗位' [ RunTime:0.0390s ]
+
+[ 2017-12-22T11:30:55+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0061s ]
+SQL: UPDATE `admin` SET `name`='童丽榕',`state`='63',`spoil`='艾美特电风扇' WHERE `name` = '童丽榕' [ RunTime:0.0902s ]
+
+[ 2017-12-22T11:30:55+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0131s ]
+SQL: UPDATE `admin` SET `name`='刘娟',`state`='63',`spoil`='艾美特电风扇' WHERE `name` = '刘娟' [ RunTime:0.0404s ]
+
+[ 2017-12-22T11:30:55+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0069s ]
+SQL: UPDATE `admin` SET `name`='文淑娟',`state`='63',`spoil`='艾美特电风扇' WHERE `name` = '文淑娟' [ RunTime:0.0491s ]
+
+[ 2017-12-22T11:30:55+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0065s ]
+SQL: UPDATE `admin` SET `name`='张夏梅',`state`='63',`spoil`='艾美特电风扇' WHERE `name` = '张夏梅' [ RunTime:0.0468s ]
+
+[ 2017-12-22T11:30:55+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0072s ]
+SQL: UPDATE `admin` SET `name`='范路',`state`='63',`spoil`='艾美特电风扇' WHERE `name` = '范路' [ RunTime:0.0549s ]
+
+[ 2017-12-22T11:30:55+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0069s ]
+SQL: UPDATE `admin` SET `name`='武晴晴',`state`='63',`spoil`='艾美特电风扇' WHERE `name` = '武晴晴' [ RunTime:0.0630s ]
+
+[ 2017-12-22T11:30:55+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0076s ]
+SQL: UPDATE `admin` SET `name`='张玉婷',`state`='63',`spoil`='艾美特电风扇' WHERE `name` = '张玉婷' [ RunTime:0.0473s ]
+
+[ 2017-12-22T11:30:55+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0061s ]
+SQL: UPDATE `admin` SET `name`='朱金萍',`state`='63',`spoil`='艾美特电风扇' WHERE `name` = '朱金萍' [ RunTime:0.0477s ]
+
+[ 2017-12-22T11:30:55+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0061s ]
+SQL: UPDATE `admin` SET `name`='晏祥情',`state`='63',`spoil`='艾美特电风扇' WHERE `name` = '晏祥情' [ RunTime:0.0382s ]
+
+[ 2017-12-22T13:35:00+08:00 ] ::1 /game/index.php/Home/Prize/panpel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `admin` WHERE `state` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `admin` WHERE `state` > 0  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `admin` WHERE `tab` = 1  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `prize` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `prize`  [ RunTime:0.0003s ]
+SQL: UPDATE `admin` SET `state`='0',`spoil`=NULL WHERE `state` > 0 [ RunTime:0.1035s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023899s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023934s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.003977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004286s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000660s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000709s ]
+
+[ 2017-12-22T13:36:16+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0137s ]
+SQL: UPDATE `admin` SET `name`='谢展康',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '谢展康' [ RunTime:0.2067s ]
+
+[ 2017-12-22T13:36:16+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0128s ]
+SQL: UPDATE `admin` SET `name`='张菊',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '张菊' [ RunTime:0.0667s ]
+
+[ 2017-12-22T13:36:17+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001067s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0069s ]
+SQL: UPDATE `admin` SET `name`='段金贵',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '段金贵' [ RunTime:0.0524s ]
+
+[ 2017-12-22T13:36:17+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001746s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0122s ]
+SQL: UPDATE `admin` SET `name`='覃亚露',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '覃亚露' [ RunTime:0.0628s ]
+
+[ 2017-12-22T13:36:20+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0172s ]
+SQL: UPDATE `admin` SET `name`='肖隆俊',`state`='42',`spoil`='海尔冰箱' WHERE `name` = '肖隆俊' [ RunTime:0.0560s ]
+
+[ 2017-12-22T13:36:20+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0063s ]
+SQL: UPDATE `admin` SET `name`='罗霖',`state`='42',`spoil`='海尔冰箱' WHERE `name` = '罗霖' [ RunTime:0.0515s ]
+
+[ 2017-12-22T13:36:20+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0080s ]
+SQL: UPDATE `admin` SET `name`='胡晶晶',`state`='42',`spoil`='海尔冰箱' WHERE `name` = '胡晶晶' [ RunTime:0.0435s ]
+
+[ 2017-12-22T13:38:50+08:00 ] ::1 /game/index.php/Home/Prize/panpel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000595s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `admin` WHERE `state` = 0  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `admin` WHERE `state` > 0  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `admin` WHERE `tab` = 1  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `prize` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `prize`  [ RunTime:0.0002s ]
+SQL: UPDATE `admin` SET `state`='0',`spoil`=NULL WHERE `state` > 0 [ RunTime:0.0498s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038044s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038078s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.004472s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004869s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000564s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000592s ]
+
+[ 2017-12-22T13:38:56+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0143s ]
+SQL: UPDATE `admin` SET `name`='吴楚琼',`state`='21',`spoil`='iphone 8' WHERE `name` = '吴楚琼' [ RunTime:0.0653s ]
+
+[ 2017-12-22T13:38:56+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001008s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0132s ]
+SQL: UPDATE `admin` SET `name`='蒲俊霖',`state`='21',`spoil`='iphone 8' WHERE `name` = '蒲俊霖' [ RunTime:0.0552s ]
+
+[ 2017-12-22T13:40:08+08:00 ] ::1 /game/index.php/Home/Prize/panpel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0146s ]
+SQL: SELECT * FROM `admin` WHERE `state` = 0  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `admin` WHERE `state` > 0  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `admin` WHERE `tab` = 1  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `prize` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `prize`  [ RunTime:0.0002s ]
+SQL: UPDATE `admin` SET `state`='0',`spoil`=NULL WHERE `state` > 0 [ RunTime:0.0712s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000135s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029458s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029493s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.003824s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000815s ]
+
+[ 2017-12-22T13:40:15+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0630s ]
+SQL: UPDATE `admin` SET `name`='晏祥情',`state`='21',`spoil`='iphone 8' WHERE `name` = '晏祥情' [ RunTime:0.0538s ]
+
+[ 2017-12-22T13:40:15+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0064s ]
+SQL: UPDATE `admin` SET `name`='邓秋燕',`state`='21',`spoil`='iphone 8' WHERE `name` = '邓秋燕' [ RunTime:0.0549s ]
+
+[ 2017-12-22T13:42:05+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0144s ]
+SQL: UPDATE `admin` SET `name`='张玉婷',`state`='21',`spoil`='iphone 8' WHERE `name` = '张玉婷' [ RunTime:0.0793s ]
+
+[ 2017-12-22T13:42:05+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0071s ]
+SQL: UPDATE `admin` SET `name`='郑雪红',`state`='21',`spoil`='iphone 8' WHERE `name` = '郑雪红' [ RunTime:0.0433s ]
+
+[ 2017-12-22T13:42:39+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0130s ]
+SQL: UPDATE `admin` SET `name`='付兴红',`state`='21',`spoil`='iphone 8' WHERE `name` = '付兴红' [ RunTime:0.1317s ]
+
+[ 2017-12-22T13:42:39+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0059s ]
+SQL: UPDATE `admin` SET `name`='蒲俊霖',`state`='21',`spoil`='iphone 8' WHERE `name` = '蒲俊霖' [ RunTime:0.0465s ]
+
+[ 2017-12-22T13:50:27+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0140s ]
+SQL: UPDATE `admin` SET `name`='刘文良',`state`='10',`spoil`='现金大奖' WHERE `name` = '刘文良' [ RunTime:0.1603s ]
+
+[ 2017-12-22T13:52:57+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0122s ]
+SQL: UPDATE `admin` SET `name`='李娜',`state`='11',`spoil`='苹果笔记本' WHERE `name` = '李娜' [ RunTime:0.0569s ]
+
+[ 2017-12-22T13:56:19+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000612s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0138s ]
+SQL: UPDATE `admin` SET `name`='余凡进',`state`='11',`spoil`='苹果笔记本' WHERE `name` = '余凡进' [ RunTime:0.0672s ]
+
+[ 2017-12-22T14:17:39+08:00 ] ::1 /game/index.php/Home/Prize/panpel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000777s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0844s ]
+SQL: SELECT * FROM `admin` WHERE `state` = 0  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `admin` WHERE `state` > 0  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `admin` WHERE `tab` = 1  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `prize` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `prize`  [ RunTime:0.0002s ]
+SQL: UPDATE `admin` SET `state`='0',`spoil`=NULL WHERE `state` > 0 [ RunTime:0.0802s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032839s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032878s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.003721s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004093s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000518s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000545s ]
+
+[ 2017-12-22T14:17:43+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0128s ]
+SQL: UPDATE `admin` SET `name`='童婷',`state`='10',`spoil`='现金大奖' WHERE `name` = '童婷' [ RunTime:0.0596s ]
+
+[ 2017-12-22T14:17:48+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0133s ]
+SQL: UPDATE `admin` SET `name`='田莉莉',`state`='11',`spoil`='苹果笔记本' WHERE `name` = '田莉莉' [ RunTime:0.0482s ]
+
+[ 2017-12-22T14:17:53+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0143s ]
+SQL: UPDATE `admin` SET `name`='雷苏云',`state`='21',`spoil`='iphone 8' WHERE `name` = '雷苏云' [ RunTime:0.0557s ]
+
+[ 2017-12-22T14:17:53+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000991s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0075s ]
+SQL: UPDATE `admin` SET `name`='王花',`state`='21',`spoil`='iphone 8' WHERE `name` = '王花' [ RunTime:0.0517s ]
+
+[ 2017-12-22T14:37:00+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0153s ]
+SQL: UPDATE `admin` SET `name`='阳科',`state`='32',`spoil`='ipad Mini' WHERE `name` = '阳科' [ RunTime:0.0708s ]
+
+[ 2017-12-22T14:37:00+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001263s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0069s ]
+SQL: UPDATE `admin` SET `name`='刘飞荣',`state`='32',`spoil`='ipad Mini' WHERE `name` = '刘飞荣' [ RunTime:0.0632s ]
+
+[ 2017-12-22T15:37:18+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001088s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0136s ]
+SQL: UPDATE `admin` SET `name`='覃江宏',`state`='22',`spoil`='小米笔记本' WHERE `name` = '覃江宏' [ RunTime:0.0673s ]
+
+[ 2017-12-22T15:37:18+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0057s ]
+SQL: UPDATE `admin` SET `name`='王文娟',`state`='22',`spoil`='小米笔记本' WHERE `name` = '王文娟' [ RunTime:0.0565s ]
+
+[ 2017-12-22T15:37:22+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0130s ]
+SQL: UPDATE `admin` SET `name`='陈亚亮',`state`='31',`spoil`='小米电视55寸' WHERE `name` = '陈亚亮' [ RunTime:0.0534s ]
+
+[ 2017-12-22T15:37:22+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0056s ]
+SQL: UPDATE `admin` SET `name`='蒋於峰',`state`='31',`spoil`='小米电视55寸' WHERE `name` = '蒋於峰' [ RunTime:0.0497s ]
+
+[ 2017-12-22T15:37:49+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0134s ]
+SQL: UPDATE `admin` SET `name`='赵燕',`state`='33',`spoil`='华为手机' WHERE `name` = '赵燕' [ RunTime:0.0647s ]
+
+[ 2017-12-22T15:37:49+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0059s ]
+SQL: UPDATE `admin` SET `name`='陆德武',`state`='33',`spoil`='华为手机' WHERE `name` = '陆德武' [ RunTime:0.0576s ]
+
+[ 2017-12-22T15:38:04+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0202s ]
+SQL: UPDATE `admin` SET `name`='卢金雷',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '卢金雷' [ RunTime:0.0449s ]
+
+[ 2017-12-22T15:38:04+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000933s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0058s ]
+SQL: UPDATE `admin` SET `name`='王健',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '王健' [ RunTime:0.0478s ]
+
+[ 2017-12-22T15:38:04+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0067s ]
+SQL: UPDATE `admin` SET `name`='鲜银华',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '鲜银华' [ RunTime:0.0737s ]
+
+[ 2017-12-22T15:38:04+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0069s ]
+SQL: UPDATE `admin` SET `name`='王美凤',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '王美凤' [ RunTime:0.0424s ]
+
+[ 2017-12-22T15:38:07+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0140s ]
+SQL: UPDATE `admin` SET `name`='杨蓉',`state`='42',`spoil`='海尔冰箱' WHERE `name` = '杨蓉' [ RunTime:0.0563s ]
+
+[ 2017-12-22T15:38:07+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0063s ]
+SQL: UPDATE `admin` SET `name`='田雷',`state`='42',`spoil`='海尔冰箱' WHERE `name` = '田雷' [ RunTime:0.0546s ]
+
+[ 2017-12-22T15:38:07+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0066s ]
+SQL: UPDATE `admin` SET `name`='彭雪春',`state`='42',`spoil`='海尔冰箱' WHERE `name` = '彭雪春' [ RunTime:0.0462s ]
+
+[ 2017-12-22T15:38:10+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000798s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.1622s ]
+SQL: UPDATE `admin` SET `name`='杨积喜',`state`='43',`spoil`='小天鹅洗衣机' WHERE `name` = '杨积喜' [ RunTime:0.0831s ]
+
+[ 2017-12-22T15:38:10+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0155s ]
+SQL: UPDATE `admin` SET `name`='殷芳',`state`='43',`spoil`='小天鹅洗衣机' WHERE `name` = '殷芳' [ RunTime:0.0612s ]
+
+[ 2017-12-22T15:38:10+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0078s ]
+SQL: UPDATE `admin` SET `name`='彭美娇',`state`='43',`spoil`='小天鹅洗衣机' WHERE `name` = '彭美娇' [ RunTime:0.0550s ]
+
+[ 2017-12-22T15:55:41+08:00 ] ::1 /game/index.php/Home/Prize/panpel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `admin` WHERE `state` = 0  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `admin` WHERE `state` > 0  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `admin` WHERE `tab` = 1  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `prize` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `prize`  [ RunTime:0.0002s ]
+SQL: UPDATE `admin` SET `state`='0',`spoil`=NULL WHERE `state` > 0 [ RunTime:0.0586s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006837s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006873s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.003586s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003899s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000506s ]
+
+[ 2017-12-22T16:04:18+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000841s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0150s ]
+SQL: UPDATE `admin` SET `name`='董启明',`state`='10',`spoil`='现金大奖' WHERE `name` = '董启明' [ RunTime:0.0625s ]
+
+[ 2017-12-22T16:04:27+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0138s ]
+SQL: UPDATE `admin` SET `name`='黄丽娟',`state`='22',`spoil`='小米笔记本' WHERE `name` = '黄丽娟' [ RunTime:0.0573s ]
+
+[ 2017-12-22T16:04:27+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0059s ]
+SQL: UPDATE `admin` SET `name`='高杰',`state`='22',`spoil`='小米笔记本' WHERE `name` = '高杰' [ RunTime:0.0445s ]
+
+[ 2017-12-22T16:13:07+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0159s ]
+SQL: UPDATE `admin` SET `name`='肖隆俊',`state`='32',`spoil`='ipad Mini' WHERE `name` = '肖隆俊' [ RunTime:0.0636s ]
+
+[ 2017-12-22T16:13:07+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0082s ]
+SQL: UPDATE `admin` SET `name`='石广静',`state`='32',`spoil`='ipad Mini' WHERE `name` = '石广静' [ RunTime:0.0678s ]
+
+[ 2017-12-22T16:21:13+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0257s ]
+SQL: UPDATE `admin` SET `name`='曾灵芝',`state`='53',`spoil`='床上用品四件套' WHERE `name` = '曾灵芝' [ RunTime:0.0518s ]
+
+[ 2017-12-22T16:21:13+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001038s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0082s ]
+SQL: UPDATE `admin` SET `name`='黄春青',`state`='53',`spoil`='床上用品四件套' WHERE `name` = '黄春青' [ RunTime:0.0487s ]
+
+[ 2017-12-22T16:21:13+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000982s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0060s ]
+SQL: UPDATE `admin` SET `name`='李双龙',`state`='53',`spoil`='床上用品四件套' WHERE `name` = '李双龙' [ RunTime:0.0460s ]
+
+[ 2017-12-22T16:21:13+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0061s ]
+SQL: UPDATE `admin` SET `name`='李豪华',`state`='53',`spoil`='床上用品四件套' WHERE `name` = '李豪华' [ RunTime:0.0436s ]
+
+[ 2017-12-22T16:21:13+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0060s ]
+SQL: UPDATE `admin` SET `name`='谢停停',`state`='53',`spoil`='床上用品四件套' WHERE `name` = '谢停停' [ RunTime:0.0447s ]
+
+[ 2017-12-22T16:21:18+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0191s ]
+SQL: UPDATE `admin` SET `name`='陈丽梅',`state`='52',`spoil`='电饭煲' WHERE `name` = '陈丽梅' [ RunTime:0.0549s ]
+
+[ 2017-12-22T16:21:18+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0073s ]
+SQL: UPDATE `admin` SET `name`='郭珍霜',`state`='52',`spoil`='电饭煲' WHERE `name` = '郭珍霜' [ RunTime:0.0476s ]
+
+[ 2017-12-22T16:21:18+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0070s ]
+SQL: UPDATE `admin` SET `name`='窦丽清',`state`='52',`spoil`='电饭煲' WHERE `name` = '窦丽清' [ RunTime:0.0695s ]
+
+[ 2017-12-22T16:21:18+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0076s ]
+SQL: UPDATE `admin` SET `name`='王翠',`state`='52',`spoil`='电饭煲' WHERE `name` = '王翠' [ RunTime:0.0698s ]
+
+[ 2017-12-22T16:21:18+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0087s ]
+SQL: UPDATE `admin` SET `name`='杨雪松',`state`='52',`spoil`='电饭煲' WHERE `name` = '杨雪松' [ RunTime:0.0538s ]
+
+[ 2017-12-22T16:21:22+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0155s ]
+SQL: UPDATE `admin` SET `name`='黄梦',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '黄梦' [ RunTime:0.0576s ]
+
+[ 2017-12-22T16:21:22+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0070s ]
+SQL: UPDATE `admin` SET `name`='古明许',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '古明许' [ RunTime:0.0550s ]
+
+[ 2017-12-22T16:21:22+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0060s ]
+SQL: UPDATE `admin` SET `name`='李云杰',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '李云杰' [ RunTime:0.0538s ]
+
+[ 2017-12-22T16:21:22+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0064s ]
+SQL: UPDATE `admin` SET `name`='高丽丽',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '高丽丽' [ RunTime:0.0422s ]
+
+[ 2017-12-22T16:28:10+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0133s ]
+SQL: UPDATE `admin` SET `name`='马风梅',`state`='31',`spoil`='小米电视55寸' WHERE `name` = '马风梅' [ RunTime:0.1553s ]
+
+[ 2017-12-22T16:28:10+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0120s ]
+SQL: UPDATE `admin` SET `name`='王倩',`state`='31',`spoil`='小米电视55寸' WHERE `name` = '王倩' [ RunTime:0.0480s ]
+
+[ 2017-12-22T16:32:40+08:00 ] ::1 /game/index.php/Home/Prize/panpel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `admin` WHERE `state` = 0  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `admin` WHERE `state` > 0  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `admin` WHERE `tab` = 1  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `prize` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `prize`  [ RunTime:0.0002s ]
+SQL: UPDATE `admin` SET `state`='0',`spoil`=NULL WHERE `state` > 0 [ RunTime:0.0575s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032714s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032751s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.003737s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000878s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000922s ]
+
+[ 2017-12-22T16:32:44+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000828s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0123s ]
+SQL: UPDATE `admin` SET `name`='杨宝',`state`='10',`spoil`='现金大奖' WHERE `name` = '杨宝' [ RunTime:0.0677s ]
+
+[ 2017-12-22T16:32:50+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0121s ]
+SQL: UPDATE `admin` SET `name`='钟志茂',`state`='11',`spoil`='苹果笔记本' WHERE `name` = '钟志茂' [ RunTime:0.0547s ]
+
+[ 2017-12-22T16:34:12+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0173s ]
+SQL: UPDATE `admin` SET `name`='赖金玲',`state`='22',`spoil`='小米笔记本' WHERE `name` = '赖金玲' [ RunTime:0.0495s ]
+
+[ 2017-12-22T16:34:12+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001177s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0067s ]
+SQL: UPDATE `admin` SET `name`='吴楚琼',`state`='22',`spoil`='小米笔记本' WHERE `name` = '吴楚琼' [ RunTime:0.0611s ]
+
+[ 2017-12-22T16:36:46+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000802s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0158s ]
+SQL: UPDATE `admin` SET `name`='秦俊明',`state`='21',`spoil`='iphone 8' WHERE `name` = '秦俊明' [ RunTime:0.0674s ]
+
+[ 2017-12-22T16:36:46+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001578s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0060s ]
+SQL: UPDATE `admin` SET `name`='王美凤',`state`='21',`spoil`='iphone 8' WHERE `name` = '王美凤' [ RunTime:0.0905s ]
+
+[ 2017-12-22T16:36:53+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0138s ]
+SQL: UPDATE `admin` SET `name`='冯丽贞',`state`='31',`spoil`='小米电视55寸' WHERE `name` = '冯丽贞' [ RunTime:0.0604s ]
+
+[ 2017-12-22T16:36:53+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0060s ]
+SQL: UPDATE `admin` SET `name`='李泰能',`state`='31',`spoil`='小米电视55寸' WHERE `name` = '李泰能' [ RunTime:0.0624s ]
+
+[ 2017-12-22T16:36:56+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0417s ]
+SQL: UPDATE `admin` SET `name`='晏祥情',`state`='32',`spoil`='ipad Mini' WHERE `name` = '晏祥情' [ RunTime:0.0503s ]
+
+[ 2017-12-22T16:36:56+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0110s ]
+SQL: UPDATE `admin` SET `name`='于海源',`state`='32',`spoil`='ipad Mini' WHERE `name` = '于海源' [ RunTime:0.0610s ]
+
+[ 2017-12-22T16:36:59+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0151s ]
+SQL: UPDATE `admin` SET `name`='吴小梅',`state`='33',`spoil`='华为手机' WHERE `name` = '吴小梅' [ RunTime:0.0612s ]
+
+[ 2017-12-22T16:37:00+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0152s ]
+SQL: UPDATE `admin` SET `name`='陈新旺',`state`='33',`spoil`='华为手机' WHERE `name` = '陈新旺' [ RunTime:0.0617s ]
+
+[ 2017-12-22T16:37:03+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0815s ]
+SQL: UPDATE `admin` SET `name`='怀永梅',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '怀永梅' [ RunTime:0.0530s ]
+
+[ 2017-12-22T16:37:03+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0070s ]
+SQL: UPDATE `admin` SET `name`='覃小静',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '覃小静' [ RunTime:0.0535s ]
+
+[ 2017-12-22T16:37:03+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002332s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0075s ]
+SQL: UPDATE `admin` SET `name`='付兴红',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '付兴红' [ RunTime:0.0433s ]
+
+[ 2017-12-22T16:37:04+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0076s ]
+SQL: UPDATE `admin` SET `name`='张红清',`state`='41',`spoil`='小米电视32寸' WHERE `name` = '张红清' [ RunTime:0.0589s ]
+
+[ 2017-12-22T16:37:06+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0226s ]
+SQL: UPDATE `admin` SET `name`='余凡进',`state`='42',`spoil`='海尔冰箱' WHERE `name` = '余凡进' [ RunTime:0.0565s ]
+
+[ 2017-12-22T16:37:06+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0073s ]
+SQL: UPDATE `admin` SET `name`='洪艳',`state`='42',`spoil`='海尔冰箱' WHERE `name` = '洪艳' [ RunTime:0.0552s ]
+
+[ 2017-12-22T16:37:06+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0071s ]
+SQL: UPDATE `admin` SET `name`='董启明',`state`='42',`spoil`='海尔冰箱' WHERE `name` = '董启明' [ RunTime:0.0520s ]
+
+[ 2017-12-22T17:26:02+08:00 ] ::1 /game/index.php/Home/Prize/panpel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `admin` WHERE `state` = 0  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `admin` WHERE `state` > 0  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `admin` WHERE `tab` = 1  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `prize` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `prize`  [ RunTime:0.0002s ]
+SQL: UPDATE `admin` SET `state`='0',`spoil`=NULL WHERE `state` > 0 [ RunTime:0.0792s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033149s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033184s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.003790s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004097s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000626s ]
+
+[ 2017-12-22T17:26:06+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0594s ]
+SQL: UPDATE `admin` SET `name`='童婷',`state`='10',`spoil`='现金大奖' WHERE `name` = '童婷' [ RunTime:0.0633s ]
+
+[ 2017-12-22T17:26:19+08:00 ] ::1 /game/index.php/Home/Prize/panpel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `admin` WHERE `state` = 0  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `admin` WHERE `state` > 0  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `admin` WHERE `tab` = 1  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `prize` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `prize`  [ RunTime:0.0002s ]
+SQL: UPDATE `admin` SET `state`='0',`spoil`=NULL WHERE `state` > 0 [ RunTime:0.0752s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033972s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034014s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.003430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003780s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000542s ]
+
+[ 2017-12-22T17:26:26+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001061s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0136s ]
+SQL: UPDATE `admin` SET `name`='朱金萍',`state`='10',`spoil`='现金大奖' WHERE `name` = '朱金萍' [ RunTime:0.0506s ]
+
+[ 2017-12-22T17:26:32+08:00 ] ::1 /game/index.php/Home/Prize/panpel
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `admin` WHERE `state` = 0  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `admin` WHERE `state` > 0  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `admin` WHERE `tab` = 1  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `prize` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `prize`  [ RunTime:0.0002s ]
+SQL: UPDATE `admin` SET `state`='0',`spoil`=NULL WHERE `state` > 0 [ RunTime:0.0570s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032128s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032166s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.003686s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000591s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000619s ]
+
+[ 2017-12-22T17:26:47+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0124s ]
+SQL: UPDATE `admin` SET `name`='钟志茂',`state`='10',`spoil`='现金大奖' WHERE `name` = '钟志茂' [ RunTime:0.0595s ]
+
+[ 2017-12-22T18:05:48+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 127 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0280s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '毛少' LIMIT 1   [ RunTime:0.0004s ]
+DEBUG: 毛少
+
+[ 2017-12-22T18:05:50+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 127 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '毛少' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 毛少
+
+[ 2017-12-22T18:05:50+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 127 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '毛少' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 毛少
+
+[ 2017-12-22T18:05:50+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 127 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '毛少' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 毛少
+
+[ 2017-12-22T18:05:50+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 127 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0256s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '毛少' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 毛少
+
+[ 2017-12-22T18:06:10+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001019s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 127 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0123s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '谢杨明' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 谢杨明
+
+[ 2017-12-22T18:11:45+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000887s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 127 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0203s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '黄梦' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 黄梦
+

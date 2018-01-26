@@ -1,0 +1,59 @@
+[ 2017-12-15T15:32:12+08:00 ] ::1 /game/index.php/prize/opration
+ERR: 非法操作:opration
+
+[ 2017-12-15T15:32:20+08:00 ] ::1 /game/index.php/prize/lib/jquery-2.1.1.min.js
+ERR: 非法操作:lib
+
+[ 2017-12-15T15:32:22+08:00 ] ::1 /game/index.php/prize/lib/jquery-2.1.1.min.js
+ERR: 非法操作:lib
+
+[ 2017-12-15T15:32:26+08:00 ] ::1 /game/index.php/prize/lib/jquery-2.1.1.min.js
+ERR: 非法操作:lib
+
+[ 2017-12-15T15:32:29+08:00 ] ::1 /game/index.php/prize/lib/jquery-2.1.1.min.js
+ERR: 非法操作:lib
+
+[ 2017-12-15T15:33:06+08:00 ] ::1 /game/index.php/prize/opration
+ERR: 非法操作:opration
+
+[ 2017-12-15T15:33:12+08:00 ] ::1 /game/index.php/prize/opration
+ERR: 非法操作:opration
+
+[ 2017-12-15T15:33:13+08:00 ] ::1 /game/index.php/prize/opration
+ERR: 非法操作:opration
+
+[ 2017-12-15T15:33:17+08:00 ] ::1 /game/index.php/prize/opration
+ERR: 非法操作:opration
+
+[ 2017-12-15T17:28:26+08:00 ] ::1 /game/index.php/Home/Index/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000905s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0145s ]
+SQL: UPDATE `admin` SET `state`='2',`number`='13450705144' WHERE `number` = '13450705144' [ RunTime:0.0934s ]
+
+[ 2017-12-15T17:28:28+08:00 ] ::1 /game/index.php/Home/Index/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0428s ]
+SQL: UPDATE `admin` SET `state`='2',`number`='13537608259' WHERE `number` = '13537608259' [ RunTime:0.0647s ]
+
+[ 2017-12-15T17:28:30+08:00 ] ::1 /game/index.php/Home/Index/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0159s ]
+SQL: UPDATE `admin` SET `state`='2',`number`='13877472909' WHERE `number` = '13877472909' [ RunTime:0.0756s ]
+
+[ 2017-12-15T17:28:32+08:00 ] ::1 /game/index.php/Home/Index/eidtThing
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0490s ]
+SQL: UPDATE `admin` SET `state`='2',`number`='18658419025' WHERE `number` = '18658419025' [ RunTime:0.0439s ]
+

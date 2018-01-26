@@ -1,0 +1,109 @@
+
+#CB_ImgHide {
+	Z-INDEX: 1098; LEFT: 0px; VISIBILITY: hidden; POSITION: absolute
+}
+#CB_ShowTh {
+	Z-INDEX: 1097; LEFT: 0px; VISIBILITY: hidden; WIDTH: 100%; BOTTOM: 0px; POSITION: absolute; HEIGHT: 15%
+}
+#CB_Thumbs {
+	DISPLAY: none; Z-INDEX: 1100; LEFT: 0px; OVERFLOW: hidden; BOTTOM: -60px; PADDING-TOP: 10px; POSITION: absolute; HEIGHT: 60px; BACKGROUND-COLOR: #fff;width: 100%!important;
+}
+#CB_Thumbs2 {
+	MARGIN: auto 0px; POSITION: absolute; HEIGHT: 50px
+}
+.CB_ThumbsImg {
+	POSITION: absolute
+}
+.CB_RoundPixBugFix {
+	DISPLAY: block; FONT-SIZE: 1pt; VISIBILITY: hidden; FONT-FAMILY: arial
+}
+#CB_ImgContainer {
+	WIDTH: 100%; POSITION: relative;margin-top: 40px; margin-bottom: 20px
+}
+#CB_PrevNext {
+	Z-INDEX: 1002; LEFT: 0px; WIDTH: 100%; POSITION: absolute; TOP: 0px; HEIGHT: 100%
+}
+#CB_ContentHide {
+	Z-INDEX: 1000; LEFT: 0px; POSITION: absolute; TOP: 0px
+}
+#CB_LoadingImage {
+	MARGIN-TOP: -12px; LEFT: 50%; VISIBILITY: hidden; MARGIN-LEFT: -12px; POSITION: absolute; TOP: 50%
+}
+#CB_Text {
+	TEXT-ALIGN: center
+}
+#CB_Window {
+	Z-INDEX: 1100; LEFT: 50%; VISIBILITY: hidden; POSITION: absolute; TOP: 50%; BORDER-COLLAPSE: separate
+}
+#CB_Image {
+	POSITION: relative;margin: 0 auto;
+}
+#CB_iFrame {
+	Z-INDEX: 1003; WIDTH: 0px; POSITION: absolute; HEIGHT: 0px
+}
+#CB_TopLeft {
+	BACKGROUND-POSITION: right bottom; BACKGROUND-IMAGE: url(../../Common/img/s_topleft.png)
+}
+#CB_Top {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(../../Common/img/s_top.png)
+}
+#CB_TopRight {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(../../Common/img/s_topright.png)
+}
+#CB_Left {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(../../Common/img/s_left.png)
+}
+#CB_Content {
+	BACKGROUND-COLOR: #ffffff
+}
+#CB_Right {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(../../Common/img/s_right.png)
+}
+#CB_BtmLeft {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(../../Common/img/s_btmleft.png)
+}
+#CB_Btm {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(../../Common/img/s_btm.png)
+}
+#CB_BtmRight {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(../../Common/img/s_btmright.png)
+}
+#CB_Prev {
+	DISPLAY: block; Z-INDEX: 1102; BACKGROUND: url(../../Common/img/blank.gif) no-repeat 0% 50%; WIDTH: 49%; CURSOR: pointer; outline-style: none
+}
+#CB_Next {
+	DISPLAY: block; Z-INDEX: 1102; BACKGROUND: url(../../Common/img/blank.gif) no-repeat 0% 50%; WIDTH: 49%; CURSOR: pointer; outline-style: none
+}
+.CB_TextNav {
+	COLOR: #aaa; TEXT-DECORATION: underline
+}
+.CB_TextNav:hover {
+	COLOR: #ff7700; TEXT-DECORATION: none
+}
+#CB_Prev {
+	LEFT: 0px; FLOAT: left
+}
+#CB_Next {
+	LEFT: 0px; FLOAT: right
+}
+#CB_Prev:hover {
+	BACKGROUND: url(../../Common/img/prev.gif) no-repeat left 50%; opacity: 0.5;
+}
+#CB_Next:hover {
+	BACKGROUND: url(../../Common/img/next.gif) no-repeat right 50%; opacity: 0.5;
+}
+#CB_CloseWindow {
+	Z-INDEX: 1104; RIGHT: -1px; CURSOR: pointer; POSITION: absolute; TOP: -42px; width: 42px;
+}
+#CB_SlideShowS {
+	Z-INDEX: 1104; LEFT: -1px; CURSOR: pointer; POSITION: absolute; TOP: -35px
+}
+#CB_SlideShowP {
+	Z-INDEX: 1104; LEFT: -1px; CURSOR: pointer; POSITION: absolute; TOP: -35px
+}
+#CB_SlideShowBar {
+	DISPLAY: none; LEFT: 24px; WIDTH: 0px; POSITION: absolute; TOP: -22px; HEIGHT: 5px
+}
+#CB_Email {
+	RIGHT: 15px; POSITION: absolute
+}

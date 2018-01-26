@@ -1,0 +1,2013 @@
+[ 2017-12-06T09:42:29+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0188s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0012s ]
+
+[ 2017-12-06T09:43:15+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0293s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0013s ]
+
+[ 2017-12-06T09:44:51+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0303s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0012s ]
+
+[ 2017-12-06T09:45:17+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0318s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T09:48:02+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+
+[ 2017-12-06T09:48:07+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+
+[ 2017-12-06T09:54:41+08:00 ] ::1 /game/index.php/Home/Index/addchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+ERR: 非法操作:addchuli
+
+[ 2017-12-06T09:56:13+08:00 ] ::1 /game/index.php/Home/Index/addchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000949s ]
+ERR: 非法操作:addchuli
+
+[ 2017-12-06T09:57:18+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0116s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-12-06T09:58:30+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0122s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-12-06T10:11:57+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T10:12:04+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T10:13:12+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0012s ]
+
+[ 2017-12-06T10:13:23+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0221s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T10:14:15+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0254s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T10:15:06+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0206s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T10:15:09+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0243s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T10:15:26+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0181s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T10:15:56+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0184s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0012s ]
+
+[ 2017-12-06T10:16:20+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0012s ]
+
+[ 2017-12-06T10:16:25+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0196s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T10:22:06+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0166s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T10:34:18+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0197s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T10:37:04+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0171s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T10:37:59+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0260s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T10:38:29+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0167s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T10:39:19+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0505s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T10:39:29+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0211s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T10:40:59+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0240s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T10:41:08+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0235s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T10:42:12+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0214s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T10:42:21+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0177s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T10:42:54+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0265s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0012s ]
+
+[ 2017-12-06T10:43:06+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T10:45:37+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T10:45:46+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0178s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0012s ]
+
+[ 2017-12-06T10:45:50+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000660s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0274s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T10:48:23+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000898s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T10:48:44+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0185s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0013s ]
+
+[ 2017-12-06T10:49:07+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0193s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0012s ]
+
+[ 2017-12-06T10:49:26+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0197s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T10:49:30+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0173s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T10:50:54+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0203s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T10:51:05+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0245s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:00:04+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0303s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:00:12+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001030s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0198s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:00:29+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0163s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:00:40+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0207s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0012s ]
+
+[ 2017-12-06T11:00:53+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0207s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T11:01:09+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0238s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:01:19+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T11:01:33+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0205s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T11:01:43+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0200s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:01:49+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0169s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T11:01:57+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0209s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:02:04+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0194s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:03:22+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T11:04:16+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0131s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0012s ]
+
+[ 2017-12-06T11:07:21+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0298s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:07:22+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0364s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T11:07:40+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T11:07:45+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0151s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:07:53+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:08:27+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0324s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T11:09:52+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0151s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:10:21+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0188s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:14:12+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0411s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:14:36+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0219s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0016s ]
+
+[ 2017-12-06T11:14:48+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0268s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T11:15:10+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0298s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:38:09+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:38:11+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000617s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:38:33+08:00 ] ::1 /game/index.php/index/eval%20code%20(6)
+ERR: 非法操作:eval code (6)
+
+[ 2017-12-06T11:38:45+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0131s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:39:52+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T11:39:57+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0166s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T11:39:58+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0159s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T11:40:10+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0172s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0012s ]
+
+[ 2017-12-06T11:40:29+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0281s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:40:42+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T11:40:43+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0168s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T11:40:43+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T11:40:44+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0166s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:41:11+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0166s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:41:18+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0320s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0012s ]
+
+[ 2017-12-06T11:41:31+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0182s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0013s ]
+
+[ 2017-12-06T11:41:34+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0172s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:41:36+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0157s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T11:42:00+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0138s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:42:58+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0010s ]
+
+[ 2017-12-06T11:43:38+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T11:43:51+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T12:01:08+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000810s ]
+NOTIC: [8] Undefined variable: attr C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+
+[ 2017-12-06T12:01:29+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:29+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:29+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:32+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:32+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:33+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:33+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:33+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:33+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:33+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:34+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:34+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:35+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:39+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:40+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:40+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:40+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:41+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:41+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:42+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:42+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000768s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:43+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:43+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:45+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:45+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:45+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:45+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:45+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:53+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000615s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:57+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000622s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:57+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:58+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:01:58+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:02:02+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:02:06+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:02:06+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:02:06+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:02:14+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php on line 23 and at least 1 expected
+
+[ 2017-12-06T12:02:24+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+
+[ 2017-12-06T12:02:28+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+
+[ 2017-12-06T12:02:30+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+
+[ 2017-12-06T12:03:27+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+
+[ 2017-12-06T13:35:22+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+
+[ 2017-12-06T13:35:22+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+
+[ 2017-12-06T13:35:22+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+
+[ 2017-12-06T13:35:23+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+
+[ 2017-12-06T13:35:34+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+
+[ 2017-12-06T13:39:28+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-12-06T13:39:29+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-12-06T13:39:29+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-12-06T13:39:29+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-12-06T13:39:34+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-12-06T13:39:35+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-12-06T13:39:35+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-12-06T13:39:35+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-12-06T13:39:35+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-12-06T13:39:36+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-12-06T13:40:08+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+DEBUG: 
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-12-06T13:40:08+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+DEBUG: 
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000545s ]
+
+[ 2017-12-06T13:40:17+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+DEBUG: 
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-12-06T13:46:38+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-12-06T13:46:40+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-12-06T13:46:41+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-12-06T13:46:41+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-12-06T13:46:41+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-12-06T13:46:41+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-12-06T13:46:42+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-12-06T13:47:12+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-12-06T13:47:19+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000424s ]
+
+[ 2017-12-06T13:47:19+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-12-06T13:47:19+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-12-06T13:47:19+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-12-06T13:47:20+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-12-06T13:47:21+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-12-06T13:47:21+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-12-06T13:47:21+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-12-06T13:47:21+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-12-06T13:47:21+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-12-06T13:47:21+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-12-06T13:47:22+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2017-12-06T13:47:22+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-12-06T13:47:22+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-12-06T13:47:23+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2017-12-06T13:49:36+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2017-12-06T13:49:40+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001437s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2017-12-06T13:51:23+08:00 ] ::1 /game/index.php/index/eval%20code%20(2)
+ERR: 非法操作:eval code (2)
+
+[ 2017-12-06T13:52:02+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2017-12-06T13:52:14+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2017-12-06T13:52:16+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000617s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2017-12-06T13:55:21+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2017-12-06T13:55:21+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2017-12-06T13:55:22+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2017-12-06T13:55:22+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000660s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2017-12-06T13:55:22+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2017-12-06T13:55:22+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2017-12-06T13:55:22+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2017-12-06T13:55:35+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2017-12-06T13:55:36+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2017-12-06T13:55:36+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2017-12-06T13:55:36+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001395s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2017-12-06T13:55:36+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2017-12-06T13:55:56+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2017-12-06T13:55:59+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 23 行.
+DEBUG: 
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined variable:  C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2017-12-06T14:12:21+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 29 行.
+
+[ 2017-12-06T14:12:24+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 29 行.
+
+[ 2017-12-06T14:12:32+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 29 行.
+
+[ 2017-12-06T14:12:49+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 29 行.
+
+[ 2017-12-06T14:17:58+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0125s ]
+NOTIC: [8] Undefined variable: data C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 30 行.
+
+[ 2017-12-06T14:18:15+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000939s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0118s ]
+
+[ 2017-12-06T14:19:19+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0127s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-12-06T14:19:26+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0126s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-12-06T14:20:25+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0125s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-12-06T14:20:34+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0121s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-12-06T14:27:23+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0218s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-12-06T14:27:29+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0512s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-12-06T14:27:42+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0183s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-12-06T14:27:52+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0330s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-12-06T14:28:21+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.1479s ]
+SQL: INSERT INTO `admin` (`name`,`number`) VALUES ('','') [ RunTime:0.0586s ]
+
+[ 2017-12-06T14:29:20+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0140s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-12-06T14:29:23+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0149s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-12-06T14:31:08+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0119s ]
+SQL: INSERT INTO `admin` (`name`,`number`) VALUES ('','') [ RunTime:0.0403s ]
+
+[ 2017-12-06T14:32:17+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0117s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: INSERT INTO `admin` (`name`,`number`) VALUES ('','') [ RunTime:0.0383s ]
+
+[ 2017-12-06T14:34:25+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0122s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+SQL: INSERT INTO `admin` (`name`,`number`) VALUES ('','') [ RunTime:0.0511s ]
+
+[ 2017-12-06T14:40:30+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-12-06T14:41:02+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0118s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-12-06T15:01:21+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 
+
+[ 2017-12-06T15:01:26+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 
+
+[ 2017-12-06T15:01:38+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 
+
+[ 2017-12-06T15:01:42+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0123s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 
+
+[ 2017-12-06T15:02:13+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 
+
+[ 2017-12-06T15:02:32+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000609s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 
+
+[ 2017-12-06T15:03:57+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 
+
+[ 2017-12-06T15:05:10+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 
+
+[ 2017-12-06T15:09:52+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2017-12-06T15:17:19+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0146s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '234' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 234
+
+[ 2017-12-06T15:17:29+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001756s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '234' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 234
+
+[ 2017-12-06T15:24:16+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-12-06T15:24:58+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-12-06T15:36:59+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0117s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '23434' LIMIT 1   [ RunTime:0.0004s ]
+DEBUG: 23434
+
+[ 2017-12-06T15:37:05+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '杨文东' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 杨文东
+
+[ 2017-12-06T15:37:05+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '杨文东' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 杨文东
+
+[ 2017-12-06T15:37:06+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '杨文东' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 杨文东
+
+[ 2017-12-06T15:37:06+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '杨文东' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 杨文东
+
+[ 2017-12-06T15:37:07+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '杨文东' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 杨文东
+
+[ 2017-12-06T15:37:35+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '345435' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 345435
+
+[ 2017-12-06T15:39:11+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '45656' LIMIT 1   [ RunTime:0.0004s ]
+DEBUG: 45656
+
+[ 2017-12-06T15:39:40+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000584s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '23434' LIMIT 1   [ RunTime:0.0004s ]
+DEBUG: 23434
+
+[ 2017-12-06T15:40:35+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '33' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 33
+
+[ 2017-12-06T15:40:47+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '杨文东' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 杨文东
+
+[ 2017-12-06T15:41:11+08:00 ] ::1 /game/index.php/Home/Index/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000622s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `admin` WHERE `name` = '杨文东' LIMIT 1   [ RunTime:0.0003s ]
+DEBUG: 杨文东
+
+[ 2017-12-06T15:42:44+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0133s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-12-06T15:42:44+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0065s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-12-06T15:43:43+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0116s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: INSERT INTO `admin` (`name`,`number`) VALUES ('23434','23434') [ RunTime:0.0323s ]
+
+[ 2017-12-06T15:43:43+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate C:\web\Apache2.4\htdocs\game\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: INSERT INTO `admin` (`name`,`number`) VALUES ('23434','23434') [ RunTime:0.0428s ]
+
+[ 2017-12-06T15:54:51+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0112s ]
+SQL: INSERT INTO `admin` (`name`,`number`) VALUES ('test','12432') [ RunTime:0.0520s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T15:55:10+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0114s ]
+SQL: INSERT INTO `admin` (`name`,`number`) VALUES ('test','34324') [ RunTime:0.0986s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0038s ]
+
+[ 2017-12-06T15:55:42+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0114s ]
+SQL: INSERT INTO `admin` (`name`,`number`) VALUES ('test','1236') [ RunTime:0.0492s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T15:56:14+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0119s ]
+SQL: INSERT INTO `admin` (`name`,`number`) VALUES ('yangwend','4234') [ RunTime:0.0533s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0040s ]
+
+[ 2017-12-06T15:56:31+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0115s ]
+SQL: INSERT INTO `admin` (`name`,`number`) VALUES ('yangwend3','4234') [ RunTime:0.0462s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T16:05:23+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0117s ]
+SQL: INSERT INTO `admin` (`name`,`number`) VALUES ('','') [ RunTime:0.0569s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0044s ]
+
+[ 2017-12-06T16:05:27+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0121s ]
+SQL: INSERT INTO `admin` (`name`,`number`) VALUES ('','') [ RunTime:0.0592s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T16:08:01+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0112s ]
+SQL: INSERT INTO `admin` (`name`,`number`) VALUES ('','') [ RunTime:0.0530s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T16:08:14+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0115s ]
+SQL: INSERT INTO `admin` (`name`,`number`) VALUES ('dongge','324324') [ RunTime:0.0400s ]
+SQL: SELECT * FROM `admin`  [ RunTime:0.0011s ]
+
+[ 2017-12-06T16:15:36+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000872s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-12-06T16:15:42+08:00 ] ::1 /game/index.php/Home/Index/ajaxchuli
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\Apache2.4\htdocs\game\Application\Home\Controller\IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-12-06T16:58:34+08:00 ] ::1 /game/
+ERR: syntax error, unexpected '<'
+
+[ 2017-12-06T17:01:20+08:00 ] ::1 /game/
+ERR: syntax error, unexpected '<'
+
+[ 2017-12-06T17:25:27+08:00 ] ::1 /game/
+ERR: syntax error, unexpected ';', expecting ',' or ')'
+
+[ 2017-12-06T17:25:55+08:00 ] ::1 /game/
+ERR: syntax error, unexpected ';', expecting ',' or ')'
+
+[ 2017-12-06T17:25:56+08:00 ] ::1 /game/
+ERR: syntax error, unexpected ';', expecting ',' or ')'
+
+[ 2017-12-06T17:26:18+08:00 ] ::1 /game/
+ERR: Call to undefined function Home\Controller\stringify()
+

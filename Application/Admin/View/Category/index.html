@@ -1,0 +1,37 @@
+<div class="contentBox">
+    <table class="tableListWrap">
+        <tr>
+            <th colspan="5">选择类别</th>
+        </tr>
+        <tr>
+            <td>名称</td>
+            <td>分类ID</td>
+            <td colspan="2">添加大类</td>
+        </tr>
+        <volist name="category" id="v">
+            <tr class="{$v.className}">
+                <td>{:str_repeat('— ',$v['level'])}{$v.name}</td>
+                <td>{$v.id}</td>
+                <td><empty name="v.addClass"><else/><a href='{:U("Category/add",array("id"=>$v["id"]))}'>{$v.addClass}</a></empty></td>
+                <td>{$v.classCate}</td>
+            </tr>
+        </volist>
+    </table>
+</div>
+<script>
+$(function(){
+    var box = $('.contentBox');
+    $('.tableListWrap tr').hover(function(){
+        $(this).addClass('listStyleBgColor');
+    },function(){
+        $(this).removeClass('listStyleBgColor');
+    });
+    var parent = $('.class_parent');
+    //var child = $('.class_child');
+    parent.find('td:eq(1)').css({'font-size':'16px','color':'red'});
+    formQuick(1,box);                                     //追加快捷操作表单
+    delData("{:U('Category/del')}");            //数据删除
+    tableTrTdLeft($('.tableListWrap tr').length-1,0);                   //左对齐
+    selectTag(2,1);           //左侧导航  
+});
+</script>

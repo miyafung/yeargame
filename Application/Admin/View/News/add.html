@@ -1,0 +1,25 @@
+<div class="contentBox">
+    <include file="Goods/_ueditor"/>
+    <form method="post" enctype="multipart/form-data"></form>
+</div>  
+<script>
+$(function(){
+    var tip = ['1.多关键词要用英文逗号“,”隔开，例如“FC fiber pigtail, FC/UPC pigtail, FC fiber optical pigtail”','2.图片的上传尺寸：340*150（像素）','3.产品若为白色的相似色，建议加上投影凸显轮廓'];       //注意事项
+    var $selected = '<volist name="classList" id="v"><option value="{$v.id}" <eq name="v.id" value="$cid">selected</eq>>{$v.name}</option></volist>';                   //分类选择盒子
+    tableHeader('添加新闻','添加');              //添加头部
+    tdOdd(1);                                   //分类选择的分类框架
+    $('#classList').append($selected);          //拼接分类选择
+    tableTr(2).after($trTd(5));              //拼接表格框架
+    tableTr(3).append(input('标题*','text','title')).append(input('编辑时间','text','time'));
+    tableTr(4).append(tableSelect('上架','on_sale')).append(textarea('关键词','keyword'));
+    tableTr(5).append(textarea('介绍','introduce')).append(input('图片上传','file','thumb'));
+    tableTr(5).find('input').addClass('inputNone');             //给文件上传按钮添加样式
+    tableTr(6).append(editor("describes",'editor_id1'));
+    tableTr(7).append(notice(tip));                             //添加注意事项
+
+    selectTag(3,0);           //左侧导航  
+});
+</script>
+
+
+

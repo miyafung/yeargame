@@ -1,0 +1,60 @@
+<div class="borderedModel">
+    <div class="borderedModel_4">
+        <div class="borderedModelIcon"><img src="__PUBLIC__/Admin/img/adminIcon.png"></div>
+        <div class="borderedModelRight">
+            <p class="borderedModelTitle">管理员：{$admin_name}</p>
+            <p class="borderedModelCon">上次登录时间：{$dataLogin.lasttime}</p>
+        </div>
+    </div>
+
+    <!-- <div class="bordered_count_right ">
+            <table class="bordered_table_long bordered_table_sort tablePaddingLeft">
+                <tr>
+                    <th colspan="2">登录信息</th>
+                </tr>
+                <tr>
+                    <td>管理员：</td>
+                    <td>{$admin_name}</td>
+                </tr>
+                <tr>
+                    <td>上次登录时间：</td>
+                    <td>{$dataLogin.lasttime}</td>
+                </tr>
+                <tr>
+                    <td>本次登录时间：</td>
+                    <td>{$dataLogin.nowtime}</td>
+                </tr>
+                <tr>
+                    <td>上次登录IP：</td>
+                    <td>{$dataLogin.lastip}</td>
+                </tr>
+                <tr>
+                    <td>本次登录IP：</td>
+                    <td>{$dataLogin.nowip}</td>
+                </tr>
+                <tr>
+                    <td>现在时间：</td>
+                    <td id="current_time"></td>
+                </tr>
+            </table>
+        </div> -->
+</div>
+
+<!-- <form method="post" id="form">
+    <input type="hidden" name="id" id="target_id">
+</form> -->
+
+<script> 
+$(function(){
+    //产品数据的显示隐藏
+    function Cmd(obj){
+        $(obj).next("div").find("div").each(function(){
+            $(this).hide();
+        });
+        $("#div" + obj.value).show();
+    }
+    
+    selectTag(1,0);           //左侧导航  
+});
+    
+</script>

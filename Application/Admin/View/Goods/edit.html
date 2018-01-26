@@ -1,0 +1,65 @@
+<div class="contentBox">
+    <include file="Goods/_ueditor"/>
+    <form method="post" enctype="multipart/form-data"></form>
+    <div id="editor1" style="display: none"><textarea id="editor_id1" name="describes" style="width: 100%;min-height:300px;">{$goods.describes}</textarea></div>
+    <div id="editor2" style="display: none"><textarea id="editor_id2" name="parameters" style="width: 100%;min-height:300px;">{$goods.parameters}</textarea></div>
+</div>
+<script>
+$(function(){
+    var editorHtml1 = $('#editor1').html();
+    var editorHtml2 = $('#editor2').html();
+    $('#editor1,#editor2').remove();
+    var tip = ['1. 多关键词要用英文逗号“,”隔开，例如“FC fiber pigtail, FC/UPC pigtail, FC fiber optical pigtail”','2. 图片的上传尺寸：750*750（像素）','3. 产品若为白色的相似色，建议加上投影凸显轮廓','4. 单选参数最多6项','5. 每项多参数值必须用英文逗号“,”隔开，如“4 Channel,8 Channel,16 Channel”'];       //注意事项
+    var $selected = '<volist name="classList" id="v"><option value="{$v.id}" <eq name="v.id" value="$cid">selected</eq>>{$v.name}</option></volist>';                   //分类选择盒子
+    var sanSeArr = [['{$goods.parn1}','{$goods.par1}'],
+        ['{$goods.parn2}','{$goods.par2}'],
+        ['{$goods.parn3}','{$goods.par3}'],
+        ['{$goods.parn4}','{$goods.par4}'],
+        ['{$goods.parn5}','{$goods.par5}'],
+        ['{$goods.parn6}','{$goods.par6}'],;
+    var $preview = "<?php echo $goods['thumb'] ?>";
+    var $photoPath = webUrl()+"public/Uploads/small/"+$preview;
+    //alert(sanSeArr);
+    function sanSe(i){
+        return '<div class="sanSe"><input type="text" name="parn'+i+'" class="inputSort"><input type="text" name="par'+i+'"></div>';
+    }
+    tableHeader('编辑产品','编辑');              //添加头部
+    tdOdd(1);                                   //分类选择的分类框架
+    $('#classList').append($selected);          //拼接分类选择
+    tableTr(2).after($trTd(9));              //拼接表格框架
+    tableTr(3).append(input('名称*','text','name',"<?php echo $goods['name'] ?>")).append(input('型号','text','type',"<?php echo $goods['type'] ?>"));
+    tableTr(4).append(textarea('介绍','introduce',"<?php echo $goods['introduce'] ?>")).append(textarea('关键词*','keyword',"<?php echo $goods['title'] ?>"));
+    tableTr(5).append(existSelect('上架','on_sale',"<?php echo $goods['on_sale'] ?>")).append(existSelect('热门','recommend',"<?php echo $goods['recommend'] ?>"));  
+    tableTr(6).append(existPhoto('图片',$preview,"{:U('News/delPhoto',array('id'=>$id,'cid'=>$cid))}",$photoPath)).append(input('图片上传','file','thumb'));
+    tableTr(6).find('input').addClass('inputNone');             //给文件上传按钮添加样式
+    tableTr(7).append('<td><span>单属性</span></td><td></td>').append('<td><span>多属性</span></td><td></td>');
+    tableTr(8).append('<td>说明</td><td colspan="3">'+editorHtml1+'</td>').children('td:eq(1)');
+    tableTr(9.append('<td>参数</td><td colspan="3">'+editorHtml2+'</td>').children('td:eq(1)');
+    tableTr(10).append(notice(tip));                             //添加注意事项
+    //$('.contentBox').
+    var property = tableTr(7);
+    property.children('td:eq(0)').children('span').click(function(){
+        var len = $('.sanSe').length+1;
+        if(len<=6){
+            property.children('td:eq(1)').append(sanSe(len));
+        }else{
+            alert("只能添加六个属性");
+        }
+    });
+    
+    function ArrIf($item,$nu){
+        for(var i=0; i<$item.length; i++){
+            $name = $item[i][0];
+            $value = $item[i][1];
+            if($item[i][0] == ''){
+                $item.splice(i,1);
+            }else if($nu == 1){
+                property.children('td:eq(1)').append('<div class="sanSe"><input type="text" name="parn'+(i+1)+'" value="'+$name+'" class="inputSort"><input type="text" value="'+$value+'" name="par'+(i+1)+'"></div>');
+            };
+        }
+    }
+    ArrIf(sanSeArr,1);
+    
+    selectTag(2,0);           //左侧导航  
+});
+</script>

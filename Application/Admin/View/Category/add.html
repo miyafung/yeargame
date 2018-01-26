@@ -1,0 +1,14 @@
+<div class="contentBox">
+    <p class="cardTitle">产品子类的添加</p>
+    <form method="post" enctype="multipart/form-data"></form>
+</div>
+<script> 
+$(function(){
+    var listArr = [["大类：",'{$category.name}'],["小类：",'<input type="text" name="name">']];
+    var trLast = '<tr><td></td><td><input class="cardInfoBtn inputNone" type="submit" value="添加" name="return"></td></tr>';
+    $('form').append(cardTable(listArr));
+    $('.cardInfo').append(trLast);
+    selectTag(2,1);           //左侧导航  
+});
+    
+</script>

@@ -1,0 +1,42 @@
+<div class="contentBox"></div>
+<script>
+$(function(){
+    var list = '<volist name="banner" id="v">'+
+                    '<tr>'+
+                        '<td>'+
+                            '<input name="visitor[]" type="checkbox" value="" />'+
+                            '<span class="hiddenThing">{$v.id}</span>'+
+                        '</td>'+
+                        '<td class="thumbPhoto">'+
+                            '<empty name="v.thumb">'+
+                                '<img src="__PUBLIC__/Common/img/none.png" width="40"/>'+
+                            '<else />'+
+                                '<a href="__PUBLIC__/Uploads/banner/{$v.thumb}" class="tooltipPhoto" title="{$v.name}"><img src="__PUBLIC__/Uploads/banner/{$v.thumb}" width="30" /></a>'+
+                            '</empty>'+
+                        '</td>'+
+                        '<td>'+
+                            '{$v.name}'+
+                            '<p class="opration"><a href="'+"{:U('Banner/edit',array('id'=>$v['id']))}"+'">编辑</a> / <a href="#" class="act-del" data-id="{$v.id}">删除</a></p>'+
+                        '</td>'+
+                        '<td>{$v.url}</td>'+
+                        '<td><a href="#" class="act-onsale" data-id="{$v.id}" data-status="{$v.on_sale}"><eq name="v.on_sale" value="yes">已上架<else/>未上架</eq></a></td>'+
+                        '<td>{$v.sort}</td>'+
+                    '</tr>'+
+                '</volist>';
+    var box = $('.contentBox');
+    var tableThArr = ['选择','缩略图','名称','链接','状态','排序'];        //表头
+    box.append(tableIndexHeader(6,'新闻主页',"<?php echo $dataCount ?>",'<?php echo $pagelist ?>')).find("tr:first").after(list).after(tableList(tableThArr));
+    
+    box.prepend(onlyAddInfo("{:U('Banner/add')}","添加banner"));
+    search('请输入名称关键词',$('.content_title'));                          //在页面中追加搜索框
+    formQuick(2,box);                                                       //追加快捷操作表单
+    lineHover();                                                            //鼠标移入显示操作按钮
+    deepenLine();                                                           //遍历数据修改后返回主页加深行背景
+    tooltipPhoto();                                                         //鼠标移入缩略图，显示大图
+    quickAction("{:U('Banner/change',array('cid'=>$cid,'p'=>$p))}");          //快捷操作
+    delData("{:U('Banner/del',array('p'=>$p,'cid'=>$cid))}");                 //数据删除
+    tableTrTdLeft($('.tableListWrap tr').length-1,2);                       //左对齐
+    selectTag(3,1);           //左侧导航  
+});
+    
+</script>

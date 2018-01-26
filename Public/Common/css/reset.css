@@ -1,0 +1,20 @@
+/*清除标签原有的默认样式，并重新定义*/
+body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,li,ol,pre,form,fieldset,legend,button,input,textarea,th,td{margin: 0;padding: 0;}
+body,button,input,select,textarea{font:12px/1.5 tahoma,arial,\5b8b\4f53;}
+h1,h2,h3,h4,h5,h6{font-size: 100%;}
+address,cite,dfn,em,var{font-style: normal;}        /*cite:标签定义作品（比如书籍、歌曲、电影、电视节目、绘画、雕塑等等）的标题   dfn:可标记那些对特殊术语或短语的定义*/
+code,kbd,pre,samp{font-family: courier new,courier,monospace;}              /*code:定义计算机代码文本。   ked:定义键盘文本   samp:定义样本文本*/
+small{ font-size: 12px;}                /*呈现小号字体效果*/
+ul,ol{ list-style: none;}
+a{ text-decoration: none; color: #333;}
+a:hover{ color: #2a426a;}
+sup{ vertical-align: text-top;}         /*上标*/
+sub{ vertical-align: text-bottom;}      /*下标*/
+legend{ color: #000;}
+fieldset,img{ border: 0;}               /*fieldset:表单属性*/
+button,input,select,textarea{ font-size: 100%;}
+table{ border-collapse: collapse; border-spacing: 0;}
+.clear{clear: both; float: none; height: 0; overflow: hidden;}
+html .hide{ display: none;}
+input{ border: 1px solid #ddd;}
+.inputNone{border:none;}

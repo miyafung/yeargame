@@ -1,0 +1,37 @@
+<div class="contentBox">
+    <include file="Goods/_ueditor"/>
+    <form method="post" enctype="multipart/form-data"></form>
+</div>
+<script>
+$(function(){
+    var tip = ['1. 多关键词要用英文逗号“,”隔开，例如“FC fiber pigtail, FC/UPC pigtail, FC fiber optical pigtail”','2. 图片的上传尺寸：750*750（像素）','3. 产品若为白色的相似色，建议加上投影凸显轮廓','4. 单选参数最多6项','5. 每项多参数值必须用英文逗号“,”隔开，如“4 Channel,8 Channel,16 Channel”'];       //注意事项
+    var $selected = '<volist name="classList" id="v"><option value="{$v.id}" <eq name="v.id" value="$cid">selected</eq>>{$v.name}</option></volist>';                   //分类选择盒子
+    function sanSe(i){
+        return '<div class="sanSe"><input type="text" name="parn'+i+'" class="inputSort"><input type="text" name="par'+i+'"></div>';
+    }
+    tableHeader('添加产品','添加');              //添加头部
+    tdOdd(1);                                   //分类选择的分类框架
+    $('#classList').append($selected);          //拼接分类选择
+    tableTr(2).after($trTd(8));              //拼接表格框架
+    tableTr(3).append(input('名称*','text','name')).append(input('型号','text','type'));
+    tableTr(4).append(textarea('介绍','introduce')).append(textarea('关键词*','keyword'));
+    tableTr(5).append(tableSelect('上架','on_sale')).append(tableSelect('热门','recommend'));
+    tableTr(6).append(input('图片上传','file','thumb')).find('td:last-child').attr('colspan','3');                
+    tableTr(6).find('input').addClass('inputNone');  //给文件上传按钮添加样式
+    tableTr(7).append('<td><span>单属性</span></td><td>'+sanSe(1)+'</td>').find('td:last-child').attr('colspan','3');
+    tableTr(8).append(editor("describes",'editor_id1'));
+    tableTr(9).append(editor("parameters",'editor_id2')).children('td:first').text('参数');
+    tableTr(10).append(notice(tip));                             //添加注意事项
+    
+    tableTr(7).children('td:eq(0)').children('span').click(function(){
+        var len = $('.sanSe').length+1;
+        if(len<=8){
+            tableTr(7).children('td:eq(1)').append(sanSe(len));
+        }else{
+            alert("只能添加六个属性");
+        }
+    });
+    
+    selectTag(2,0);           //左侧导航  
+});
+</script>
