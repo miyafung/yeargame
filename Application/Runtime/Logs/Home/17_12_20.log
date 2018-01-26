@@ -1,7 +1,0 @@
-[ 2017-12-20T18:03:52+08:00 ] ::1 /game/index.php/Home/Prize/eidtThing
-INFO: [ app_begin ] --START--
-INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
-INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
-SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0035s ]
-SQL: UPDATE `admin` SET `state`='9',`spoil`='现金大奖',`number`='13823502571' WHERE `number` = '13823502571' [ RunTime:0.0427s ]
-
